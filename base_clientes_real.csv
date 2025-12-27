@@ -1,0 +1,1801 @@
+customer_id,tenure,contract_type,subscription_type
+REAL-1438,113.0,Month-to-Month,Basic
+REAL-3674,67.0,Month-to-Month,Basic
+REAL-2345,98.0,Month-to-Month,Basic
+REAL-2957,147.0,Month-to-Month,Basic
+REAL-3148,96.0,Month-to-Month,Basic
+REAL-4106,119.0,Month-to-Month,Premium
+REAL-2786,116.0,Month-to-Month,Basic
+REAL-1321,114.0,Month-to-Month,Premium
+REAL-4082,130.0,Month-to-Month,Basic
+REAL-3240,78.0,Month-to-Month,Basic
+REAL-2910,182.0,Month-to-Month,Basic
+REAL-3124,43.0,Month-to-Month,Basic
+REAL-3351,152.0,Month-to-Month,Basic
+REAL-2736,115.0,Month-to-Month,Basic
+REAL-1879,122.0,Month-to-Month,Premium
+REAL-1785,69.0,Month-to-Month,Basic
+REAL-3684,12.0,Month-to-Month,Basic
+REAL-1787,24.0,Month-to-Month,Basic
+REAL-1170,68.0,Month-to-Month,Basic
+REAL-2720,,Month-to-Month,Basic
+REAL-1756,33.0,Month-to-Month,Basic
+REAL-3323,31.0,Month-to-Month,Basic
+REAL-3262,154.0,Month-to-Month,Premium
+REAL-2210,48.0,Month-to-Month,Basic
+REAL-2450,,Month-to-Month,Basic
+REAL-2391,86.0,Month-to-Month,Premium
+REAL-2656,101.0,Month-to-Month,Premium
+REAL-2830,50.0,Month-to-Month,Basic
+REAL-3274,74.0,Month-to-Month,Premium
+REAL-1538,165.0,Month-to-Month,Basic
+REAL-1693,92.0,Month-to-Month,Premium
+REAL-1051,60.0,Month-to-Month,Basic
+REAL-1811,58.0,Month-to-Month,Basic
+REAL-3638,105.0,Month-to-Month,Basic
+REAL-1134,163.0,Month-to-Month,Basic
+REAL-2488,189.0,Month-to-Month,Basic
+REAL-3252,148.0,Month-to-Month,Basic
+REAL-3304,93.0,Month-to-Month,Premium
+REAL-4169,78.0,Month-to-Month,Basic
+REAL-1309,209.0,Month-to-Month,Basic
+REAL-1322,104.0,Month-to-Month,Basic
+REAL-1742,116.0,Month-to-Month,Premium
+REAL-3456,142.0,Month-to-Month,Basic
+REAL-2084,111.0,Month-to-Month,Basic
+REAL-2860,63.0,Month-to-Month,Basic
+REAL-3488,94.0,Month-to-Month,Basic
+REAL-3889,93.0,Month-to-Month,Basic
+REAL-2904,174.0,Month-to-Month,Premium
+REAL-3789,47.0,Month-to-Month,Premium
+REAL-2947,76.0,Month-to-Month,Basic
+REAL-1368,132.0,Month-to-Month,Basic
+REAL-1871,98.0,Month-to-Month,Basic
+REAL-1030,142.0,Month-to-Month,Basic
+REAL-3754,96.0,Month-to-Month,Premium
+REAL-2642,99.0,Month-to-Month,Basic
+REAL-3925,168.0,Month-to-Month,Basic
+REAL-4052,103.0,Month-to-Month,Basic
+REAL-1257,114.0,Month-to-Month,Basic
+REAL-3566,147.0,Month-to-Month,Basic
+REAL-1139,113.0,Month-to-Month,Premium
+REAL-1790,92.0,Two Year,Premium
+REAL-2113,152.0,Month-to-Month,Basic
+REAL-2057,86.0,Month-to-Month,Premium
+REAL-2569,73.0,Month-to-Month,Premium
+REAL-3929,71.0,Month-to-Month,Basic
+REAL-1070,138.0,Month-to-Month,Basic
+REAL-3527,184.0,Month-to-Month,Basic
+REAL-4217,164.0,Month-to-Month,Premium
+REAL-4148,60.0,Two Year,Basic
+REAL-2196,100.0,Month-to-Month,Basic
+REAL-3147,126.0,Month-to-Month,Basic
+REAL-3292,121.0,Month-to-Month,Basic
+REAL-1761,27.0,Month-to-Month,Basic
+REAL-1331,54.0,Month-to-Month,Basic
+REAL-1032,172.0,Month-to-Month,Basic
+REAL-3030,57.0,Month-to-Month,Premium
+REAL-3959,125.0,Month-to-Month,Basic
+REAL-3985,7.0,Month-to-Month,Basic
+REAL-4246,77.0,Two Year,Premium
+REAL-1229,45.0,Month-to-Month,Premium
+REAL-3850,109.0,Month-to-Month,Basic
+REAL-2835,141.0,Month-to-Month,Premium
+REAL-2104,72.0,Month-to-Month,Basic
+REAL-2936,90.0,Month-to-Month,Basic
+REAL-3339,84.0,Month-to-Month,Basic
+REAL-2956,107.0,Month-to-Month,Premium
+REAL-3302,129.0,Month-to-Month,Basic
+REAL-2114,108.0,Month-to-Month,Premium
+REAL-1746,120.0,Month-to-Month,Basic
+REAL-3828,123.0,Two Year,Basic
+REAL-1052,10.0,Month-to-Month,Basic
+REAL-2078,80.0,Month-to-Month,Basic
+REAL-1289,89.0,Month-to-Month,Basic
+REAL-3902,61.0,Month-to-Month,Premium
+REAL-1017,93.0,Month-to-Month,Basic
+REAL-2898,159.0,Month-to-Month,Basic
+REAL-2336,124.0,Month-to-Month,Basic
+REAL-1479,99.0,Month-to-Month,Basic
+REAL-4091,,Month-to-Month,Basic
+REAL-3891,159.0,Month-to-Month,Basic
+REAL-2612,141.0,Month-to-Month,Basic
+REAL-2490,1.0,Month-to-Month,Basic
+REAL-2052,98.0,Two Year,Basic
+REAL-1183,19.0,Month-to-Month,Basic
+REAL-2157,116.0,Month-to-Month,Basic
+REAL-1194,118.0,Month-to-Month,Premium
+REAL-1450,85.0,Month-to-Month,Basic
+REAL-2374,97.0,Month-to-Month,Premium
+REAL-4136,107.0,Month-to-Month,Premium
+REAL-2795,160.0,Month-to-Month,Premium
+REAL-2359,73.0,Month-to-Month,Basic
+REAL-2237,56.0,Month-to-Month,Basic
+REAL-1298,,Month-to-Month,Basic
+REAL-2807,110.0,Month-to-Month,Basic
+REAL-3338,67.0,Month-to-Month,Basic
+REAL-3234,127.0,Month-to-Month,Basic
+REAL-1080,144.0,Month-to-Month,Basic
+REAL-2226,109.0,Month-to-Month,Basic
+REAL-2344,111.0,Month-to-Month,Basic
+REAL-1093,78.0,Month-to-Month,Basic
+REAL-1314,128.0,Month-to-Month,Basic
+REAL-2918,177.0,Month-to-Month,Basic
+REAL-2876,46.0,Month-to-Month,Basic
+REAL-3469,48.0,Month-to-Month,Basic
+REAL-3102,111.0,Month-to-Month,Basic
+REAL-3140,48.0,Month-to-Month,Basic
+REAL-2933,119.0,Month-to-Month,Basic
+REAL-4189,76.0,Two Year,Basic
+REAL-1578,90.0,Month-to-Month,Premium
+REAL-3865,97.0,Month-to-Month,Premium
+REAL-3083,52.0,Month-to-Month,Basic
+REAL-1174,179.0,Month-to-Month,Basic
+REAL-2370,96.0,Month-to-Month,Basic
+REAL-1805,83.0,Month-to-Month,Basic
+REAL-3962,105.0,Month-to-Month,Basic
+REAL-2905,61.0,Month-to-Month,Basic
+REAL-2766,125.0,Month-to-Month,Basic
+REAL-1256,108.0,Month-to-Month,Basic
+REAL-1238,215.0,Month-to-Month,Basic
+REAL-1897,108.0,Month-to-Month,Premium
+REAL-1291,132.0,Month-to-Month,Basic
+REAL-2514,51.0,Month-to-Month,Basic
+REAL-1781,112.0,Two Year,Basic
+REAL-2610,104.0,Two Year,Basic
+REAL-1203,105.0,Month-to-Month,Basic
+REAL-2192,88.0,Two Year,Basic
+REAL-2902,85.0,Month-to-Month,Basic
+REAL-3340,101.0,Month-to-Month,Premium
+REAL-1354,64.0,Two Year,Basic
+REAL-3563,104.0,Month-to-Month,Basic
+REAL-4037,113.0,Month-to-Month,Basic
+REAL-2135,144.0,Month-to-Month,Premium
+REAL-3037,86.0,Month-to-Month,Basic
+REAL-1240,138.0,Month-to-Month,Basic
+REAL-2752,181.0,Two Year,Basic
+REAL-1432,112.0,Month-to-Month,Basic
+REAL-1102,135.0,Month-to-Month,Basic
+REAL-1495,161.0,Two Year,Basic
+REAL-2073,44.0,Month-to-Month,Basic
+REAL-3098,85.0,Month-to-Month,Basic
+REAL-2626,149.0,Month-to-Month,Basic
+REAL-2105,135.0,Month-to-Month,Premium
+REAL-3540,90.0,Month-to-Month,Premium
+REAL-4331,,Two Year,Basic
+REAL-1818,153.0,Month-to-Month,Basic
+REAL-2436,83.0,Month-to-Month,Premium
+REAL-1044,64.0,Month-to-Month,Basic
+REAL-3510,118.0,Month-to-Month,Basic
+REAL-2025,148.0,Month-to-Month,Premium
+REAL-1076,,Month-to-Month,Basic
+REAL-3905,135.0,Month-to-Month,Basic
+REAL-2429,11.0,Month-to-Month,Premium
+REAL-2611,83.0,Month-to-Month,Premium
+REAL-2116,130.0,Month-to-Month,Basic
+REAL-1599,75.0,Month-to-Month,Premium
+REAL-1239,73.0,Month-to-Month,Basic
+REAL-2422,107.0,Month-to-Month,Premium
+REAL-2253,85.0,Two Year,Basic
+REAL-3724,182.0,Month-to-Month,Basic
+REAL-1430,46.0,Month-to-Month,Basic
+REAL-2973,85.0,Month-to-Month,Premium
+REAL-4137,58.0,Month-to-Month,Basic
+REAL-1295,166.0,Month-to-Month,Basic
+REAL-2330,185.0,Month-to-Month,Premium
+REAL-3513,,Month-to-Month,Basic
+REAL-3829,130.0,Month-to-Month,Premium
+REAL-2538,113.0,Month-to-Month,Basic
+REAL-4144,35.0,Month-to-Month,Basic
+REAL-2869,101.0,Month-to-Month,Basic
+REAL-3168,173.0,Month-to-Month,Basic
+REAL-3881,91.0,Month-to-Month,Premium
+REAL-1423,96.0,Month-to-Month,Premium
+REAL-3938,31.0,Month-to-Month,Basic
+REAL-3673,180.0,Month-to-Month,Basic
+REAL-1485,36.0,Month-to-Month,Premium
+REAL-3273,48.0,Month-to-Month,Basic
+REAL-2775,142.0,Month-to-Month,Premium
+REAL-2089,85.0,Month-to-Month,Basic
+REAL-4316,103.0,Month-to-Month,Premium
+REAL-1755,69.0,Month-to-Month,Basic
+REAL-1610,91.0,Month-to-Month,Basic
+REAL-1712,106.0,Month-to-Month,Basic
+REAL-4036,112.0,Month-to-Month,Basic
+REAL-3878,185.0,Month-to-Month,Premium
+REAL-2454,133.0,Month-to-Month,Premium
+REAL-3212,8.0,Month-to-Month,Premium
+REAL-2652,176.0,Month-to-Month,Premium
+REAL-3229,83.0,Month-to-Month,Premium
+REAL-1544,79.0,Month-to-Month,Premium
+REAL-3321,153.0,Month-to-Month,Basic
+REAL-1325,100.0,Month-to-Month,Premium
+REAL-1414,76.0,Month-to-Month,Basic
+REAL-1557,58.0,Month-to-Month,Premium
+REAL-1299,94.0,Month-to-Month,Basic
+REAL-3107,123.0,Month-to-Month,Basic
+REAL-2006,48.0,Month-to-Month,Basic
+REAL-4146,143.0,Month-to-Month,Basic
+REAL-2731,70.0,Month-to-Month,Basic
+REAL-1184,170.0,Two Year,Basic
+REAL-1192,80.0,Month-to-Month,Basic
+REAL-3626,90.0,Month-to-Month,Premium
+REAL-2494,129.0,Month-to-Month,Basic
+REAL-3884,170.0,Month-to-Month,Basic
+REAL-3387,108.0,Month-to-Month,Premium
+REAL-1026,57.0,Month-to-Month,Premium
+REAL-2487,116.0,Month-to-Month,Premium
+REAL-3005,119.0,Month-to-Month,Basic
+REAL-1443,135.0,Month-to-Month,Basic
+REAL-3349,22.0,Month-to-Month,Basic
+REAL-1144,117.0,Two Year,Basic
+REAL-3163,119.0,Month-to-Month,Basic
+REAL-1152,65.0,Month-to-Month,Basic
+REAL-1798,135.0,Month-to-Month,Premium
+REAL-3409,183.0,Month-to-Month,Premium
+REAL-2583,78.0,Month-to-Month,Premium
+REAL-1869,127.0,Two Year,Basic
+REAL-2714,99.0,Month-to-Month,Basic
+REAL-1461,115.0,Month-to-Month,Basic
+REAL-1907,118.0,Month-to-Month,Premium
+REAL-4097,112.0,Month-to-Month,Basic
+REAL-3174,160.0,Month-to-Month,Basic
+REAL-1478,140.0,Month-to-Month,Basic
+REAL-3319,,Month-to-Month,Premium
+REAL-2551,225.0,Month-to-Month,Basic
+REAL-1764,120.0,Month-to-Month,Premium
+REAL-2728,113.0,Month-to-Month,Premium
+REAL-3639,63.0,Month-to-Month,Premium
+REAL-1867,86.0,Month-to-Month,Basic
+REAL-1506,136.0,Month-to-Month,Premium
+REAL-1838,107.0,Month-to-Month,Premium
+REAL-4273,131.0,Month-to-Month,Basic
+REAL-3400,99.0,Two Year,Premium
+REAL-1969,93.0,Month-to-Month,Basic
+REAL-1594,90.0,Month-to-Month,Basic
+REAL-3369,,Month-to-Month,Basic
+REAL-1680,116.0,Month-to-Month,Basic
+REAL-1178,116.0,Month-to-Month,Basic
+REAL-2665,106.0,Month-to-Month,Premium
+REAL-4019,169.0,Month-to-Month,Basic
+REAL-1840,111.0,Month-to-Month,Basic
+REAL-1857,160.0,Month-to-Month,Basic
+REAL-4129,115.0,Month-to-Month,Premium
+REAL-1665,112.0,Month-to-Month,Premium
+REAL-4322,62.0,Month-to-Month,Basic
+REAL-1014,62.0,Month-to-Month,Basic
+REAL-4250,55.0,Month-to-Month,Basic
+REAL-1173,65.0,Month-to-Month,Basic
+REAL-4291,119.0,Two Year,Premium
+REAL-2315,124.0,Month-to-Month,Basic
+REAL-2064,185.0,Two Year,Premium
+REAL-3354,102.0,Month-to-Month,Basic
+REAL-1279,146.0,Two Year,Basic
+REAL-2702,140.0,Month-to-Month,Basic
+REAL-2233,48.0,Month-to-Month,Basic
+REAL-2537,118.0,Two Year,Premium
+REAL-3353,101.0,Two Year,Basic
+REAL-4228,27.0,Month-to-Month,Basic
+REAL-1063,149.0,Month-to-Month,Premium
+REAL-2108,151.0,Month-to-Month,Basic
+REAL-2138,46.0,Month-to-Month,Basic
+REAL-1952,53.0,Month-to-Month,Basic
+REAL-1433,78.0,Month-to-Month,Basic
+REAL-3702,152.0,Month-to-Month,Premium
+REAL-1439,81.0,Month-to-Month,Basic
+REAL-3996,113.0,Month-to-Month,Premium
+REAL-1254,97.0,Two Year,Basic
+REAL-3288,,Month-to-Month,Basic
+REAL-3783,79.0,Month-to-Month,Premium
+REAL-3398,177.0,Month-to-Month,Basic
+REAL-2425,55.0,Month-to-Month,Basic
+REAL-1124,130.0,Month-to-Month,Basic
+REAL-2222,113.0,Month-to-Month,Basic
+REAL-1263,78.0,Month-to-Month,Basic
+REAL-2094,115.0,Month-to-Month,Basic
+REAL-3438,92.0,Month-to-Month,Basic
+REAL-1387,,Month-to-Month,Basic
+REAL-4285,,Month-to-Month,Basic
+REAL-2878,39.0,Month-to-Month,Basic
+REAL-2621,138.0,Month-to-Month,Premium
+REAL-3067,93.0,Month-to-Month,Basic
+REAL-4077,102.0,Month-to-Month,Premium
+REAL-3714,189.0,Month-to-Month,Premium
+REAL-1410,25.0,Month-to-Month,Basic
+REAL-1842,67.0,Two Year,Basic
+REAL-1486,102.0,Two Year,Basic
+REAL-2231,105.0,Month-to-Month,Basic
+REAL-2871,69.0,Month-to-Month,Basic
+REAL-1120,46.0,Month-to-Month,Basic
+REAL-1776,61.0,Month-to-Month,Premium
+REAL-2234,86.0,Month-to-Month,Basic
+REAL-4076,51.0,Month-to-Month,Basic
+REAL-3966,177.0,Month-to-Month,Basic
+REAL-3401,126.0,Two Year,Basic
+REAL-3574,97.0,Month-to-Month,Basic
+REAL-2204,78.0,Two Year,Basic
+REAL-2644,124.0,Month-to-Month,Basic
+REAL-1765,113.0,Month-to-Month,Basic
+REAL-1109,157.0,Month-to-Month,Basic
+REAL-2364,115.0,Month-to-Month,Basic
+REAL-3591,122.0,Month-to-Month,Basic
+REAL-1214,70.0,Two Year,Basic
+REAL-3202,112.0,Two Year,Premium
+REAL-4242,58.0,Month-to-Month,Premium
+REAL-2727,105.0,Month-to-Month,Basic
+REAL-1691,137.0,Month-to-Month,Basic
+REAL-2647,110.0,Month-to-Month,Basic
+REAL-3619,147.0,Two Year,Premium
+REAL-3157,143.0,Month-to-Month,Basic
+REAL-3185,126.0,Month-to-Month,Basic
+REAL-4215,23.0,Month-to-Month,Premium
+REAL-2268,131.0,Month-to-Month,Basic
+REAL-4051,115.0,Month-to-Month,Basic
+REAL-1807,56.0,Month-to-Month,Premium
+REAL-2174,72.0,Month-to-Month,Premium
+REAL-1045,59.0,Month-to-Month,Premium
+REAL-3689,79.0,Month-to-Month,Basic
+REAL-1218,136.0,Month-to-Month,Basic
+REAL-3073,140.0,Month-to-Month,Basic
+REAL-1408,133.0,Two Year,Basic
+REAL-2557,52.0,Month-to-Month,Premium
+REAL-2798,59.0,Month-to-Month,Basic
+REAL-2298,141.0,Month-to-Month,Premium
+REAL-4178,91.0,Month-to-Month,Basic
+REAL-1332,86.0,Month-to-Month,Basic
+REAL-1251,106.0,Month-to-Month,Basic
+REAL-2588,115.0,Two Year,Basic
+REAL-3356,105.0,Month-to-Month,Basic
+REAL-4187,58.0,Month-to-Month,Premium
+REAL-3755,107.0,Month-to-Month,Basic
+REAL-1564,66.0,Month-to-Month,Premium
+REAL-2467,67.0,Two Year,Premium
+REAL-3804,27.0,Month-to-Month,Basic
+REAL-2465,83.0,Month-to-Month,Basic
+REAL-2075,110.0,Month-to-Month,Basic
+REAL-3437,105.0,Month-to-Month,Premium
+REAL-3726,117.0,Month-to-Month,Basic
+REAL-3405,92.0,Month-to-Month,Premium
+REAL-3672,65.0,Two Year,Basic
+REAL-3208,129.0,Month-to-Month,Basic
+REAL-1554,65.0,Month-to-Month,Basic
+REAL-3810,90.0,Month-to-Month,Premium
+REAL-1567,85.0,Two Year,Basic
+REAL-1000,128.0,Month-to-Month,Premium
+REAL-1921,65.0,Month-to-Month,Basic
+REAL-2783,85.0,Month-to-Month,Premium
+REAL-4204,105.0,Month-to-Month,Basic
+REAL-3475,1.0,Month-to-Month,Basic
+REAL-3421,132.0,Month-to-Month,Basic
+REAL-1393,112.0,Month-to-Month,Basic
+REAL-1847,70.0,Month-to-Month,Premium
+REAL-4222,61.0,Two Year,Premium
+REAL-1211,144.0,Two Year,Basic
+REAL-2366,89.0,Month-to-Month,Basic
+REAL-1346,81.0,Month-to-Month,Premium
+REAL-1270,101.0,Month-to-Month,Basic
+REAL-1642,83.0,Month-to-Month,Basic
+REAL-3374,157.0,Two Year,Basic
+REAL-1729,151.0,Month-to-Month,Premium
+REAL-2483,107.0,Two Year,Basic
+REAL-2565,123.0,Month-to-Month,Basic
+REAL-1149,145.0,Month-to-Month,Premium
+REAL-4039,70.0,Month-to-Month,Basic
+REAL-1501,124.0,Month-to-Month,Premium
+REAL-2844,77.0,Month-to-Month,Premium
+REAL-1612,151.0,Month-to-Month,Basic
+REAL-1940,117.0,Month-to-Month,Basic
+REAL-4083,174.0,Month-to-Month,Basic
+REAL-3117,111.0,Month-to-Month,Basic
+REAL-1033,12.0,Month-to-Month,Basic
+REAL-1179,70.0,Month-to-Month,Basic
+REAL-2320,103.0,Month-to-Month,Premium
+REAL-2915,172.0,Month-to-Month,Basic
+REAL-2877,55.0,Two Year,Basic
+REAL-1247,51.0,Month-to-Month,Basic
+REAL-2003,52.0,Month-to-Month,Premium
+REAL-1862,75.0,Month-to-Month,Premium
+REAL-2286,107.0,Month-to-Month,Premium
+REAL-4127,100.0,Month-to-Month,Basic
+REAL-3218,116.0,Month-to-Month,Basic
+REAL-2376,65.0,Month-to-Month,Basic
+REAL-2789,133.0,Month-to-Month,Basic
+REAL-1839,88.0,Month-to-Month,Premium
+REAL-2091,59.0,Month-to-Month,Basic
+REAL-1596,124.0,Month-to-Month,Basic
+REAL-1442,59.0,Month-to-Month,Premium
+REAL-4183,95.0,Month-to-Month,Basic
+REAL-3379,56.0,Month-to-Month,Basic
+REAL-1810,123.0,Month-to-Month,Basic
+REAL-3794,,Two Year,Basic
+REAL-3175,180.0,Month-to-Month,Basic
+REAL-3743,90.0,Month-to-Month,Basic
+REAL-1188,164.0,Month-to-Month,Basic
+REAL-2874,67.0,Month-to-Month,Basic
+REAL-2397,101.0,Month-to-Month,Basic
+REAL-3666,103.0,Two Year,Basic
+REAL-3924,96.0,Month-to-Month,Basic
+REAL-4006,110.0,Month-to-Month,Basic
+REAL-1727,64.0,Month-to-Month,Basic
+REAL-2392,101.0,Month-to-Month,Basic
+REAL-2964,158.0,Month-to-Month,Basic
+REAL-3325,110.0,Month-to-Month,Basic
+REAL-3066,121.0,Month-to-Month,Premium
+REAL-1324,129.0,Month-to-Month,Basic
+REAL-1463,91.0,Month-to-Month,Basic
+REAL-2552,75.0,Month-to-Month,Basic
+REAL-1246,107.0,Month-to-Month,Premium
+REAL-1058,68.0,Month-to-Month,Basic
+REAL-1831,88.0,Month-to-Month,Basic
+REAL-3299,100.0,Month-to-Month,Premium
+REAL-1411,64.0,Month-to-Month,Basic
+REAL-1449,79.0,Month-to-Month,Premium
+REAL-1657,130.0,Month-to-Month,Basic
+REAL-3880,107.0,Month-to-Month,Basic
+REAL-1157,139.0,Month-to-Month,Premium
+REAL-2497,114.0,Month-to-Month,Basic
+REAL-2061,132.0,Month-to-Month,Premium
+REAL-3718,84.0,Month-to-Month,Basic
+REAL-1978,63.0,Month-to-Month,Basic
+REAL-1457,54.0,Month-to-Month,Basic
+REAL-2971,74.0,Month-to-Month,Premium
+REAL-2883,140.0,Month-to-Month,Premium
+REAL-3132,202.0,Month-to-Month,Basic
+REAL-2641,,Two Year,Basic
+REAL-2090,131.0,Month-to-Month,Basic
+REAL-1621,126.0,Month-to-Month,Basic
+REAL-1527,95.0,Month-to-Month,Premium
+REAL-1274,92.0,Month-to-Month,Premium
+REAL-2948,128.0,Month-to-Month,Basic
+REAL-1881,86.0,Month-to-Month,Basic
+REAL-3333,16.0,Month-to-Month,Basic
+REAL-2377,131.0,Month-to-Month,Premium
+REAL-3486,76.0,Month-to-Month,Basic
+REAL-1175,94.0,Month-to-Month,Basic
+REAL-2323,111.0,Month-to-Month,Basic
+REAL-4013,131.0,Month-to-Month,Basic
+REAL-4120,96.0,Month-to-Month,Premium
+REAL-3276,157.0,Month-to-Month,Basic
+REAL-1718,127.0,Month-to-Month,Basic
+REAL-3183,138.0,Month-to-Month,Basic
+REAL-1416,224.0,Two Year,Basic
+REAL-2793,97.0,Month-to-Month,Basic
+REAL-3946,82.0,Month-to-Month,Premium
+REAL-2592,30.0,Month-to-Month,Basic
+REAL-2228,124.0,Month-to-Month,Premium
+REAL-2873,107.0,Month-to-Month,Premium
+REAL-2894,68.0,Month-to-Month,Basic
+REAL-1511,73.0,Month-to-Month,Basic
+REAL-1759,136.0,Month-to-Month,Premium
+REAL-1999,165.0,Month-to-Month,Basic
+REAL-2272,81.0,Month-to-Month,Basic
+REAL-2255,,Month-to-Month,Basic
+REAL-3010,89.0,Month-to-Month,Basic
+REAL-3408,68.0,Month-to-Month,Basic
+REAL-1315,39.0,Month-to-Month,Basic
+REAL-1507,92.0,Month-to-Month,Basic
+REAL-3115,138.0,Two Year,Basic
+REAL-1889,,Month-to-Month,Basic
+REAL-1829,120.0,Month-to-Month,Basic
+REAL-2220,180.0,Month-to-Month,Basic
+REAL-2815,,Month-to-Month,Premium
+REAL-4229,117.0,Month-to-Month,Basic
+REAL-2161,40.0,Two Year,Basic
+REAL-2041,161.0,Month-to-Month,Premium
+REAL-2590,75.0,Month-to-Month,Premium
+REAL-2447,160.0,Month-to-Month,Basic
+REAL-2536,95.0,Month-to-Month,Basic
+REAL-1937,76.0,Month-to-Month,Basic
+REAL-1296,74.0,Month-to-Month,Basic
+REAL-2978,106.0,Two Year,Basic
+REAL-2402,70.0,Month-to-Month,Basic
+REAL-2509,142.0,Month-to-Month,Premium
+REAL-1605,112.0,Month-to-Month,Basic
+REAL-3562,110.0,Month-to-Month,Basic
+REAL-1266,114.0,Month-to-Month,Premium
+REAL-2491,89.0,Month-to-Month,Basic
+REAL-1196,78.0,Month-to-Month,Basic
+REAL-1402,96.0,Month-to-Month,Premium
+REAL-3309,,Two Year,Basic
+REAL-2426,86.0,Month-to-Month,Premium
+REAL-4211,103.0,Month-to-Month,Basic
+REAL-1088,74.0,Month-to-Month,Premium
+REAL-1278,131.0,Month-to-Month,Premium
+REAL-2437,126.0,Two Year,Premium
+REAL-1166,185.0,Month-to-Month,Premium
+REAL-3560,61.0,Month-to-Month,Basic
+REAL-2068,124.0,Month-to-Month,Basic
+REAL-3910,123.0,Month-to-Month,Basic
+REAL-3801,3.0,Month-to-Month,Basic
+REAL-3851,95.0,Month-to-Month,Basic
+REAL-3490,109.0,Month-to-Month,Basic
+REAL-4328,192.0,Month-to-Month,Premium
+REAL-3900,78.0,Month-to-Month,Basic
+REAL-2124,167.0,Month-to-Month,Basic
+REAL-3974,201.0,Month-to-Month,Basic
+REAL-2032,87.0,Month-to-Month,Basic
+REAL-1025,174.0,Month-to-Month,Basic
+REAL-2128,114.0,Two Year,Premium
+REAL-2988,59.0,Month-to-Month,Basic
+REAL-4151,56.0,Month-to-Month,Basic
+REAL-3683,77.0,Month-to-Month,Basic
+REAL-2926,39.0,Month-to-Month,Basic
+REAL-3377,101.0,Month-to-Month,Premium
+REAL-1067,113.0,Two Year,Basic
+REAL-3330,69.0,Month-to-Month,Basic
+REAL-1676,42.0,Month-to-Month,Basic
+REAL-3963,113.0,Month-to-Month,Premium
+REAL-3297,136.0,Month-to-Month,Basic
+REAL-1031,75.0,Month-to-Month,Basic
+REAL-3414,16.0,Two Year,Basic
+REAL-4088,100.0,Month-to-Month,Premium
+REAL-1343,98.0,Month-to-Month,Premium
+REAL-3541,73.0,Month-to-Month,Basic
+REAL-1990,38.0,Month-to-Month,Premium
+REAL-3803,104.0,Month-to-Month,Basic
+REAL-3988,105.0,Month-to-Month,Basic
+REAL-1705,99.0,Month-to-Month,Basic
+REAL-1670,32.0,Month-to-Month,Premium
+REAL-2780,68.0,Month-to-Month,Basic
+REAL-4313,127.0,Month-to-Month,Basic
+REAL-3595,25.0,Month-to-Month,Basic
+REAL-2023,100.0,Month-to-Month,Basic
+REAL-1734,93.0,Two Year,Premium
+REAL-2001,140.0,Month-to-Month,Basic
+REAL-1528,46.0,Month-to-Month,Basic
+REAL-1176,62.0,Month-to-Month,Basic
+REAL-1949,87.0,Month-to-Month,Basic
+REAL-4025,123.0,Month-to-Month,Premium
+REAL-2575,33.0,Month-to-Month,Premium
+REAL-2123,11.0,Month-to-Month,Premium
+REAL-1288,167.0,Month-to-Month,Basic
+REAL-3209,103.0,Two Year,Basic
+REAL-2190,149.0,Month-to-Month,Basic
+REAL-1177,127.0,Month-to-Month,Basic
+REAL-1631,169.0,Month-to-Month,Basic
+REAL-3310,148.0,Month-to-Month,Premium
+REAL-2211,94.0,Month-to-Month,Basic
+REAL-3419,37.0,Month-to-Month,Basic
+REAL-1370,135.0,Month-to-Month,Basic
+REAL-2398,98.0,Month-to-Month,Premium
+REAL-3230,109.0,Two Year,Basic
+REAL-2754,54.0,Two Year,Basic
+REAL-2110,117.0,Month-to-Month,Basic
+REAL-4288,78.0,Month-to-Month,Basic
+REAL-2385,113.0,Month-to-Month,Basic
+REAL-1598,84.0,Month-to-Month,Basic
+REAL-1141,120.0,Month-to-Month,Premium
+REAL-2632,112.0,Month-to-Month,Basic
+REAL-1611,90.0,Month-to-Month,Basic
+REAL-2620,154.0,Month-to-Month,Premium
+REAL-1471,78.0,Month-to-Month,Basic
+REAL-1859,93.0,Month-to-Month,Basic
+REAL-2756,118.0,Two Year,Premium
+REAL-2103,52.0,Month-to-Month,Basic
+REAL-3927,125.0,Month-to-Month,Premium
+REAL-2395,103.0,Month-to-Month,Basic
+REAL-1195,117.0,Month-to-Month,Premium
+REAL-1532,98.0,Month-to-Month,Premium
+REAL-4218,104.0,Month-to-Month,Premium
+REAL-3023,87.0,Month-to-Month,Basic
+REAL-2292,120.0,Month-to-Month,Basic
+REAL-1555,74.0,Month-to-Month,Premium
+REAL-1602,143.0,Month-to-Month,Basic
+REAL-3968,160.0,Month-to-Month,Basic
+REAL-3629,141.0,Month-to-Month,Premium
+REAL-2535,99.0,Month-to-Month,Basic
+REAL-3457,130.0,Month-to-Month,Premium
+REAL-2221,25.0,Month-to-Month,Basic
+REAL-1162,141.0,Month-to-Month,Premium
+REAL-3909,99.0,Month-to-Month,Basic
+REAL-2074,177.0,Month-to-Month,Basic
+REAL-2338,28.0,Month-to-Month,Basic
+REAL-1864,155.0,Month-to-Month,Basic
+REAL-1547,95.0,Two Year,Premium
+REAL-4177,84.0,Month-to-Month,Premium
+REAL-1568,108.0,Month-to-Month,Basic
+REAL-1654,96.0,Month-to-Month,Premium
+REAL-3496,143.0,Month-to-Month,Premium
+REAL-3564,16.0,Month-to-Month,Basic
+REAL-3458,163.0,Month-to-Month,Premium
+REAL-2451,101.0,Month-to-Month,Premium
+REAL-1927,81.0,Month-to-Month,Premium
+REAL-3478,123.0,Month-to-Month,Premium
+REAL-1581,171.0,Month-to-Month,Premium
+REAL-3495,103.0,Month-to-Month,Basic
+REAL-3740,171.0,Month-to-Month,Basic
+REAL-1073,90.0,Month-to-Month,Basic
+REAL-1048,119.0,Month-to-Month,Basic
+REAL-2618,71.0,Month-to-Month,Premium
+REAL-2889,91.0,Month-to-Month,Basic
+REAL-3622,86.0,Month-to-Month,Premium
+REAL-3973,95.0,Month-to-Month,Basic
+REAL-3429,101.0,Month-to-Month,Premium
+REAL-3396,127.0,Two Year,Basic
+REAL-3505,70.0,Month-to-Month,Basic
+REAL-2187,142.0,Month-to-Month,Premium
+REAL-3608,81.0,Month-to-Month,Premium
+REAL-1572,44.0,Two Year,Basic
+REAL-4075,181.0,Month-to-Month,Premium
+REAL-4122,3.0,Month-to-Month,Basic
+REAL-1997,116.0,Month-to-Month,Basic
+REAL-3749,95.0,Month-to-Month,Basic
+REAL-3542,19.0,Month-to-Month,Basic
+REAL-3120,81.0,Month-to-Month,Basic
+REAL-4297,148.0,Month-to-Month,Premium
+REAL-3335,124.0,Two Year,Basic
+REAL-3233,89.0,Month-to-Month,Basic
+REAL-3930,124.0,Month-to-Month,Basic
+REAL-3033,,Month-to-Month,Basic
+REAL-2995,118.0,Month-to-Month,Premium
+REAL-3868,17.0,Two Year,Basic
+REAL-3155,172.0,Month-to-Month,Basic
+REAL-4008,32.0,Month-to-Month,Premium
+REAL-3402,77.0,Month-to-Month,Premium
+REAL-2322,2.0,Two Year,Basic
+REAL-3590,129.0,Month-to-Month,Premium
+REAL-4056,131.0,Month-to-Month,Basic
+REAL-1976,104.0,Month-to-Month,Basic
+REAL-3644,76.0,Month-to-Month,Basic
+REAL-3922,162.0,Month-to-Month,Basic
+REAL-2018,76.0,Month-to-Month,Basic
+REAL-4272,,Month-to-Month,Basic
+REAL-1794,73.0,Month-to-Month,Basic
+REAL-4277,134.0,Month-to-Month,Basic
+REAL-3316,135.0,Two Year,Basic
+REAL-2608,163.0,Month-to-Month,Premium
+REAL-4261,131.0,Month-to-Month,Basic
+REAL-2872,15.0,Two Year,Basic
+REAL-3536,119.0,Month-to-Month,Basic
+REAL-3841,100.0,Month-to-Month,Basic
+REAL-1108,141.0,Month-to-Month,Premium
+REAL-2791,72.0,Month-to-Month,Basic
+REAL-3032,151.0,Month-to-Month,Basic
+REAL-1318,173.0,Month-to-Month,Premium
+REAL-1059,125.0,Month-to-Month,Basic
+REAL-2907,88.0,Month-to-Month,Premium
+REAL-3668,155.0,Month-to-Month,Premium
+REAL-3411,165.0,Month-to-Month,Basic
+REAL-4249,160.0,Month-to-Month,Basic
+REAL-1678,65.0,Month-to-Month,Basic
+REAL-4084,129.0,Month-to-Month,Basic
+REAL-2572,57.0,Month-to-Month,Basic
+REAL-3112,150.0,Month-to-Month,Basic
+REAL-3577,157.0,Month-to-Month,Basic
+REAL-3763,116.0,Month-to-Month,Premium
+REAL-4069,148.0,Month-to-Month,Premium
+REAL-2468,75.0,Month-to-Month,Premium
+REAL-1582,104.0,Month-to-Month,Basic
+REAL-1817,243.0,Month-to-Month,Basic
+REAL-2373,108.0,Month-to-Month,Basic
+REAL-1679,75.0,Two Year,Basic
+REAL-1056,141.0,Month-to-Month,Basic
+REAL-2993,86.0,Month-to-Month,Basic
+REAL-2818,78.0,Month-to-Month,Basic
+REAL-3248,152.0,Month-to-Month,Premium
+REAL-3899,80.0,Month-to-Month,Premium
+REAL-1468,86.0,Month-to-Month,Premium
+REAL-3110,102.0,Month-to-Month,Premium
+REAL-2553,86.0,Month-to-Month,Basic
+REAL-1535,194.0,Month-to-Month,Basic
+REAL-2866,119.0,Month-to-Month,Basic
+REAL-4124,75.0,Month-to-Month,Premium
+REAL-2047,102.0,Month-to-Month,Basic
+REAL-4093,27.0,Month-to-Month,Basic
+REAL-3334,119.0,Month-to-Month,Basic
+REAL-1874,103.0,Month-to-Month,Basic
+REAL-3706,125.0,Month-to-Month,Basic
+REAL-1069,150.0,Month-to-Month,Basic
+REAL-4026,78.0,Month-to-Month,Premium
+REAL-4057,119.0,Month-to-Month,Basic
+REAL-2938,155.0,Month-to-Month,Premium
+REAL-1436,155.0,Month-to-Month,Basic
+REAL-3770,84.0,Month-to-Month,Premium
+REAL-3127,46.0,Month-to-Month,Basic
+REAL-2423,127.0,Two Year,Premium
+REAL-1208,106.0,Month-to-Month,Basic
+REAL-2071,134.0,Month-to-Month,Basic
+REAL-1565,97.0,Month-to-Month,Basic
+REAL-1313,73.0,Month-to-Month,Basic
+REAL-1601,62.0,Two Year,Basic
+REAL-1233,53.0,Month-to-Month,Basic
+REAL-3890,138.0,Month-to-Month,Basic
+REAL-3700,209.0,Month-to-Month,Basic
+REAL-1903,73.0,Month-to-Month,Basic
+REAL-2461,145.0,Month-to-Month,Basic
+REAL-1111,103.0,Month-to-Month,Basic
+REAL-2414,182.0,Month-to-Month,Basic
+REAL-3025,119.0,Month-to-Month,Basic
+REAL-2510,92.0,Month-to-Month,Basic
+REAL-2213,126.0,Month-to-Month,Basic
+REAL-3808,114.0,Month-to-Month,Premium
+REAL-1472,149.0,Month-to-Month,Basic
+REAL-2034,131.0,Month-to-Month,Basic
+REAL-2801,93.0,Month-to-Month,Basic
+REAL-4173,133.0,Month-to-Month,Basic
+REAL-4022,123.0,Month-to-Month,Premium
+REAL-3426,75.0,Month-to-Month,Basic
+REAL-1736,68.0,Month-to-Month,Basic
+REAL-3114,123.0,Month-to-Month,Basic
+REAL-2044,94.0,Two Year,Basic
+REAL-3459,105.0,Month-to-Month,Basic
+REAL-1655,79.0,Month-to-Month,Basic
+REAL-2576,94.0,Month-to-Month,Basic
+REAL-1361,148.0,Month-to-Month,Basic
+REAL-1135,91.0,Two Year,Basic
+REAL-2525,42.0,Month-to-Month,Basic
+REAL-3412,89.0,Month-to-Month,Basic
+REAL-2037,87.0,Two Year,Basic
+REAL-3512,62.0,Month-to-Month,Premium
+REAL-1366,112.0,Month-to-Month,Basic
+REAL-3287,37.0,Month-to-Month,Basic
+REAL-1029,49.0,Month-to-Month,Basic
+REAL-3775,120.0,Month-to-Month,Premium
+REAL-1022,130.0,Month-to-Month,Basic
+REAL-4064,130.0,Month-to-Month,Basic
+REAL-2102,111.0,Month-to-Month,Basic
+REAL-1932,74.0,Month-to-Month,Basic
+REAL-2106,86.0,Month-to-Month,Basic
+REAL-1695,96.0,Month-to-Month,Basic
+REAL-2146,161.0,Month-to-Month,Basic
+REAL-1700,121.0,Month-to-Month,Basic
+REAL-1420,141.0,Month-to-Month,Premium
+REAL-1682,189.0,Month-to-Month,Premium
+REAL-2717,70.0,Month-to-Month,Basic
+REAL-1460,90.0,Month-to-Month,Basic
+REAL-1043,160.0,Month-to-Month,Basic
+REAL-1087,111.0,Month-to-Month,Basic
+REAL-2725,,Month-to-Month,Basic
+REAL-3528,109.0,Month-to-Month,Basic
+REAL-2584,94.0,Month-to-Month,Basic
+REAL-1561,53.0,Month-to-Month,Premium
+REAL-1282,48.0,Month-to-Month,Premium
+REAL-3601,85.0,Month-to-Month,Premium
+REAL-3012,134.0,Month-to-Month,Basic
+REAL-1942,126.0,Month-to-Month,Basic
+REAL-4162,81.0,Month-to-Month,Basic
+REAL-3042,51.0,Month-to-Month,Premium
+REAL-1533,125.0,Month-to-Month,Premium
+REAL-3936,44.0,Month-to-Month,Basic
+REAL-3722,98.0,Month-to-Month,Basic
+REAL-2991,150.0,Month-to-Month,Basic
+REAL-1965,73.0,Month-to-Month,Basic
+REAL-3618,116.0,Two Year,Premium
+REAL-3654,66.0,Month-to-Month,Basic
+REAL-3846,104.0,Month-to-Month,Basic
+REAL-3898,107.0,Month-to-Month,Basic
+REAL-2027,161.0,Two Year,Basic
+REAL-4284,48.0,Month-to-Month,Premium
+REAL-2048,85.0,Month-to-Month,Basic
+REAL-3677,44.0,Month-to-Month,Basic
+REAL-4032,173.0,Month-to-Month,Basic
+REAL-1637,64.0,Month-to-Month,Premium
+REAL-3181,157.0,Month-to-Month,Premium
+REAL-3164,115.0,Two Year,Basic
+REAL-1812,156.0,Month-to-Month,Basic
+REAL-4024,101.0,Month-to-Month,Basic
+REAL-3440,118.0,Month-to-Month,Basic
+REAL-2826,102.0,Month-to-Month,Basic
+REAL-2684,115.0,Month-to-Month,Basic
+REAL-2173,109.0,Month-to-Month,Basic
+REAL-1221,127.0,Month-to-Month,Premium
+REAL-1543,26.0,Month-to-Month,Basic
+REAL-2499,86.0,Month-to-Month,Basic
+REAL-3384,40.0,Two Year,Basic
+REAL-1685,63.0,Month-to-Month,Premium
+REAL-2456,106.0,Month-to-Month,Premium
+REAL-3953,136.0,Month-to-Month,Basic
+REAL-4276,142.0,Month-to-Month,Premium
+REAL-2288,56.0,Month-to-Month,Basic
+REAL-2729,111.0,Month-to-Month,Premium
+REAL-1789,137.0,Month-to-Month,Basic
+REAL-3940,24.0,Month-to-Month,Basic
+REAL-2674,76.0,Two Year,Basic
+REAL-1809,171.0,Month-to-Month,Premium
+REAL-3627,86.0,Month-to-Month,Basic
+REAL-4155,123.0,Month-to-Month,Basic
+REAL-3003,33.0,Two Year,Basic
+REAL-1272,49.0,Month-to-Month,Premium
+REAL-4125,40.0,Month-to-Month,Basic
+REAL-1521,88.0,Month-to-Month,Basic
+REAL-1522,122.0,Month-to-Month,Premium
+REAL-3227,41.0,Month-to-Month,Basic
+REAL-1802,84.0,Month-to-Month,Basic
+REAL-2151,119.0,Month-to-Month,Premium
+REAL-1350,59.0,Month-to-Month,Basic
+REAL-2134,105.0,Month-to-Month,Basic
+REAL-2271,81.0,Two Year,Premium
+REAL-2302,171.0,Month-to-Month,Basic
+REAL-4298,83.0,Month-to-Month,Basic
+REAL-3430,120.0,Month-to-Month,Premium
+REAL-3573,124.0,Month-to-Month,Basic
+REAL-1651,105.0,Month-to-Month,Basic
+REAL-4191,87.0,Month-to-Month,Basic
+REAL-2149,37.0,Two Year,Basic
+REAL-4170,67.0,Month-to-Month,Basic
+REAL-4287,170.0,Month-to-Month,Premium
+REAL-4089,70.0,Month-to-Month,Premium
+REAL-3222,97.0,Month-to-Month,Premium
+REAL-3634,102.0,Month-to-Month,Basic
+REAL-2206,92.0,Month-to-Month,Premium
+REAL-3687,125.0,Two Year,Premium
+REAL-1168,94.0,Month-to-Month,Premium
+REAL-3779,112.0,Month-to-Month,Basic
+REAL-2927,110.0,Month-to-Month,Basic
+REAL-2017,132.0,Month-to-Month,Basic
+REAL-1803,134.0,Month-to-Month,Basic
+REAL-2897,86.0,Month-to-Month,Premium
+REAL-2011,11.0,Month-to-Month,Basic
+REAL-2822,127.0,Month-to-Month,Basic
+REAL-2740,153.0,Month-to-Month,Premium
+REAL-4257,171.0,Month-to-Month,Basic
+REAL-2586,89.0,Month-to-Month,Basic
+REAL-4068,78.0,Month-to-Month,Premium
+REAL-3484,141.0,Month-to-Month,Premium
+REAL-1219,106.0,Month-to-Month,Basic
+REAL-1367,45.0,Month-to-Month,Basic
+REAL-4103,115.0,Month-to-Month,Basic
+REAL-1549,121.0,Month-to-Month,Premium
+REAL-3531,180.0,Month-to-Month,Basic
+REAL-3378,112.0,Month-to-Month,Basic
+REAL-2624,73.0,Month-to-Month,Basic
+REAL-1351,179.0,Two Year,Premium
+REAL-3281,107.0,Month-to-Month,Premium
+REAL-1772,77.0,Month-to-Month,Basic
+REAL-2411,103.0,Month-to-Month,Basic
+REAL-3123,125.0,Month-to-Month,Basic
+REAL-1490,78.0,Month-to-Month,Basic
+REAL-3986,89.0,Month-to-Month,Premium
+REAL-3632,89.0,Month-to-Month,Premium
+REAL-1498,75.0,Two Year,Basic
+REAL-3022,115.0,Month-to-Month,Basic
+REAL-1210,99.0,Month-to-Month,Basic
+REAL-2352,136.0,Month-to-Month,Premium
+REAL-2181,,Month-to-Month,Premium
+REAL-1650,140.0,Month-to-Month,Basic
+REAL-1227,126.0,Month-to-Month,Premium
+REAL-1365,154.0,Month-to-Month,Basic
+REAL-2967,140.0,Month-to-Month,Basic
+REAL-4265,82.0,Month-to-Month,Basic
+REAL-1276,148.0,Two Year,Basic
+REAL-4186,108.0,Month-to-Month,Basic
+REAL-1964,9.0,Month-to-Month,Premium
+REAL-1905,161.0,Month-to-Month,Basic
+REAL-2517,130.0,Month-to-Month,Basic
+REAL-4295,110.0,Month-to-Month,Basic
+REAL-1407,122.0,Month-to-Month,Basic
+REAL-3550,87.0,Month-to-Month,Basic
+REAL-2511,70.0,Month-to-Month,Basic
+REAL-3593,93.0,Month-to-Month,Basic
+REAL-2029,116.0,Month-to-Month,Basic
+REAL-3236,128.0,Month-to-Month,Basic
+REAL-3669,145.0,Month-to-Month,Basic
+REAL-2885,27.0,Month-to-Month,Basic
+REAL-1844,146.0,Month-to-Month,Premium
+REAL-1007,147.0,Two Year,Basic
+REAL-3176,93.0,Month-to-Month,Basic
+REAL-2503,57.0,Two Year,Premium
+REAL-2080,114.0,Month-to-Month,Basic
+REAL-1415,113.0,Month-to-Month,Basic
+REAL-2178,111.0,Month-to-Month,Premium
+REAL-2022,154.0,Month-to-Month,Basic
+REAL-4128,16.0,Month-to-Month,Basic
+REAL-2735,119.0,Month-to-Month,Basic
+REAL-4105,57.0,Month-to-Month,Basic
+REAL-3650,104.0,Month-to-Month,Basic
+REAL-1199,63.0,Month-to-Month,Basic
+REAL-2200,100.0,Month-to-Month,Premium
+REAL-2132,83.0,Month-to-Month,Premium
+REAL-1801,108.0,Month-to-Month,Basic
+REAL-4061,90.0,Month-to-Month,Basic
+REAL-2356,,Month-to-Month,Basic
+REAL-1283,86.0,Month-to-Month,Premium
+REAL-2236,91.0,Month-to-Month,Basic
+REAL-1231,63.0,Two Year,Premium
+REAL-3728,86.0,Month-to-Month,Basic
+REAL-1944,81.0,Month-to-Month,Premium
+REAL-3715,97.0,Month-to-Month,Premium
+REAL-1096,73.0,Month-to-Month,Basic
+REAL-3764,123.0,Month-to-Month,Premium
+REAL-4312,181.0,Month-to-Month,Basic
+REAL-4158,33.0,Month-to-Month,Basic
+REAL-4161,148.0,Month-to-Month,Basic
+REAL-3466,83.0,Month-to-Month,Premium
+REAL-4040,90.0,Month-to-Month,Basic
+REAL-4179,110.0,Month-to-Month,Basic
+REAL-3873,35.0,Month-to-Month,Basic
+REAL-4196,124.0,Month-to-Month,Basic
+REAL-2710,146.0,Month-to-Month,Basic
+REAL-1104,122.0,Month-to-Month,Basic
+REAL-3480,105.0,Two Year,Basic
+REAL-4214,149.0,Two Year,Basic
+REAL-1912,45.0,Month-to-Month,Basic
+REAL-3320,110.0,Month-to-Month,Basic
+REAL-4223,110.0,Month-to-Month,Basic
+REAL-4071,110.0,Month-to-Month,Premium
+REAL-1435,58.0,Month-to-Month,Premium
+REAL-3723,101.0,Month-to-Month,Premium
+REAL-1744,78.0,Month-to-Month,Basic
+REAL-1226,123.0,Month-to-Month,Basic
+REAL-2242,136.0,Two Year,Basic
+REAL-2067,118.0,Month-to-Month,Basic
+REAL-4180,91.0,Two Year,Basic
+REAL-3554,107.0,Month-to-Month,Basic
+REAL-3587,105.0,Month-to-Month,Basic
+REAL-2962,94.0,Month-to-Month,Basic
+REAL-2309,137.0,Two Year,Basic
+REAL-2709,96.0,Month-to-Month,Basic
+REAL-2533,127.0,Two Year,Basic
+REAL-2713,,Month-to-Month,Basic
+REAL-1962,107.0,Month-to-Month,Basic
+REAL-2475,70.0,Month-to-Month,Basic
+REAL-2340,190.0,Month-to-Month,Basic
+REAL-2042,91.0,Two Year,Premium
+REAL-3046,120.0,Month-to-Month,Basic
+REAL-2593,105.0,Two Year,Basic
+REAL-4221,88.0,Month-to-Month,Basic
+REAL-2979,60.0,Month-to-Month,Basic
+REAL-1464,,Month-to-Month,Premium
+REAL-2053,78.0,Month-to-Month,Basic
+REAL-3980,84.0,Month-to-Month,Basic
+REAL-3685,64.0,Month-to-Month,Basic
+REAL-2587,128.0,Month-to-Month,Basic
+REAL-3538,34.0,Month-to-Month,Basic
+REAL-1945,122.0,Month-to-Month,Basic
+REAL-3315,42.0,Month-to-Month,Basic
+REAL-3097,65.0,Month-to-Month,Basic
+REAL-1212,82.0,Month-to-Month,Premium
+REAL-1012,168.0,Month-to-Month,Basic
+REAL-4226,100.0,Month-to-Month,Basic
+REAL-1900,72.0,Two Year,Premium
+REAL-1422,100.0,Month-to-Month,Basic
+REAL-1887,128.0,Month-to-Month,Basic
+REAL-2765,111.0,Month-to-Month,Basic
+REAL-3965,103.0,Month-to-Month,Basic
+REAL-2225,74.0,Month-to-Month,Basic
+REAL-3656,69.0,Month-to-Month,Basic
+REAL-2623,130.0,Month-to-Month,Basic
+REAL-1741,66.0,Month-to-Month,Basic
+REAL-3933,98.0,Two Year,Basic
+REAL-3592,163.0,Month-to-Month,Basic
+REAL-2809,117.0,Month-to-Month,Basic
+REAL-2258,107.0,Two Year,Basic
+REAL-2861,119.0,Two Year,Premium
+REAL-2985,101.0,Month-to-Month,Premium
+REAL-1509,118.0,Month-to-Month,Premium
+REAL-1644,111.0,Month-to-Month,Premium
+REAL-1597,39.0,Month-to-Month,Basic
+REAL-3867,95.0,Month-to-Month,Basic
+REAL-2289,129.0,Month-to-Month,Basic
+REAL-3390,122.0,Month-to-Month,Basic
+REAL-2036,119.0,Month-to-Month,Premium
+REAL-3937,96.0,Month-to-Month,Premium
+REAL-1518,87.0,Month-to-Month,Basic
+REAL-2659,132.0,Month-to-Month,Premium
+REAL-1767,148.0,Month-to-Month,Premium
+REAL-1573,64.0,Month-to-Month,Premium
+REAL-4253,,Month-to-Month,Premium
+REAL-4027,101.0,Month-to-Month,Premium
+REAL-2862,133.0,Two Year,Basic
+REAL-3223,134.0,Month-to-Month,Basic
+REAL-3609,116.0,Month-to-Month,Premium
+REAL-2421,37.0,Month-to-Month,Premium
+REAL-2770,106.0,Month-to-Month,Basic
+REAL-1123,193.0,Month-to-Month,Basic
+REAL-2459,95.0,Month-to-Month,Basic
+REAL-3091,33.0,Month-to-Month,Basic
+REAL-1220,81.0,Month-to-Month,Basic
+REAL-1819,150.0,Month-to-Month,Basic
+REAL-4231,129.0,Month-to-Month,Premium
+REAL-1358,37.0,Two Year,Premium
+REAL-1100,98.0,Month-to-Month,Premium
+REAL-3934,24.0,Month-to-Month,Basic
+REAL-1551,157.0,Month-to-Month,Basic
+REAL-3589,101.0,Month-to-Month,Basic
+REAL-3772,161.0,Month-to-Month,Basic
+REAL-1259,59.0,Month-to-Month,Basic
+REAL-4080,82.0,Month-to-Month,Basic
+REAL-3548,117.0,Month-to-Month,Premium
+REAL-3916,104.0,Month-to-Month,Basic
+REAL-3655,64.0,Month-to-Month,Basic
+REAL-2159,128.0,Month-to-Month,Basic
+REAL-3016,80.0,Month-to-Month,Basic
+REAL-2362,63.0,Month-to-Month,Basic
+REAL-3670,116.0,Month-to-Month,Premium
+REAL-3210,,Month-to-Month,Basic
+REAL-2846,120.0,Month-to-Month,Premium
+REAL-3071,132.0,Month-to-Month,Basic
+REAL-4018,105.0,Month-to-Month,Basic
+REAL-4269,117.0,Two Year,Basic
+REAL-3584,64.0,Month-to-Month,Basic
+REAL-3561,143.0,Month-to-Month,Premium
+REAL-1456,60.0,Month-to-Month,Basic
+REAL-1462,144.0,Month-to-Month,Premium
+REAL-3474,80.0,Month-to-Month,Premium
+REAL-1926,143.0,Month-to-Month,Basic
+REAL-2055,161.0,Month-to-Month,Basic
+REAL-3177,109.0,Month-to-Month,Basic
+REAL-3407,139.0,Two Year,Premium
+REAL-1381,97.0,Month-to-Month,Basic
+REAL-4108,98.0,Month-to-Month,Premium
+REAL-3328,122.0,Month-to-Month,Basic
+REAL-3031,130.0,Month-to-Month,Basic
+REAL-1929,24.0,Month-to-Month,Basic
+REAL-2270,74.0,Month-to-Month,Basic
+REAL-2743,35.0,Month-to-Month,Basic
+REAL-2010,105.0,Month-to-Month,Basic
+REAL-3855,95.0,Month-to-Month,Basic
+REAL-2730,161.0,Month-to-Month,Basic
+REAL-1662,63.0,Month-to-Month,Basic
+REAL-4021,57.0,Month-to-Month,Basic
+REAL-2726,50.0,Month-to-Month,Basic
+REAL-3807,52.0,Month-to-Month,Basic
+REAL-3620,115.0,Month-to-Month,Basic
+REAL-3543,120.0,Month-to-Month,Premium
+REAL-2651,64.0,Two Year,Basic
+REAL-1845,144.0,Month-to-Month,Premium
+REAL-1542,152.0,Two Year,Premium
+REAL-2563,161.0,Month-to-Month,Premium
+REAL-3131,52.0,Month-to-Month,Premium
+REAL-2992,81.0,Month-to-Month,Basic
+REAL-3244,148.0,Month-to-Month,Basic
+REAL-2232,24.0,Month-to-Month,Basic
+REAL-2545,107.0,Month-to-Month,Premium
+REAL-2283,144.0,Month-to-Month,Basic
+REAL-3453,134.0,Month-to-Month,Premium
+REAL-3371,100.0,Month-to-Month,Basic
+REAL-2609,57.0,Month-to-Month,Basic
+REAL-2613,95.0,Month-to-Month,Basic
+REAL-3877,133.0,Month-to-Month,Basic
+REAL-1237,110.0,Month-to-Month,Basic
+REAL-2763,,Month-to-Month,Premium
+REAL-2264,72.0,Month-to-Month,Basic
+REAL-3179,54.0,Month-to-Month,Premium
+REAL-3284,114.0,Month-to-Month,Basic
+REAL-1163,62.0,Month-to-Month,Basic
+REAL-2842,97.0,Month-to-Month,Basic
+REAL-1252,82.0,Month-to-Month,Basic
+REAL-3290,113.0,Month-to-Month,Basic
+REAL-2937,100.0,Month-to-Month,Premium
+REAL-1930,74.0,Month-to-Month,Basic
+REAL-2419,65.0,Month-to-Month,Basic
+REAL-2188,29.0,Month-to-Month,Basic
+REAL-2455,131.0,Month-to-Month,Basic
+REAL-2407,,Month-to-Month,Premium
+REAL-3719,119.0,Month-to-Month,Premium
+REAL-2691,95.0,Month-to-Month,Basic
+REAL-2921,136.0,Month-to-Month,Basic
+REAL-3662,50.0,Two Year,Basic
+REAL-3009,82.0,Month-to-Month,Basic
+REAL-1677,84.0,Month-to-Month,Basic
+REAL-1041,135.0,Two Year,Premium
+REAL-3955,62.0,Month-to-Month,Basic
+REAL-2261,30.0,Month-to-Month,Basic
+REAL-2360,35.0,Month-to-Month,Basic
+REAL-1243,85.0,Month-to-Month,Basic
+REAL-2127,159.0,Month-to-Month,Premium
+REAL-2825,120.0,Month-to-Month,Basic
+REAL-2097,57.0,Month-to-Month,Premium
+REAL-1261,151.0,Month-to-Month,Basic
+REAL-2117,136.0,Two Year,Basic
+REAL-1834,104.0,Month-to-Month,Basic
+REAL-3575,131.0,Month-to-Month,Basic
+REAL-3645,91.0,Two Year,Basic
+REAL-2764,77.0,Month-to-Month,Basic
+REAL-2662,197.0,Two Year,Basic
+REAL-1340,89.0,Month-to-Month,Basic
+REAL-2313,100.0,Month-to-Month,Basic
+REAL-1748,106.0,Month-to-Month,Basic
+REAL-2501,72.0,Month-to-Month,Basic
+REAL-1480,,Month-to-Month,Basic
+REAL-2980,43.0,Month-to-Month,Basic
+REAL-2675,93.0,Month-to-Month,Basic
+REAL-4033,135.0,Month-to-Month,Basic
+REAL-1783,,Two Year,Basic
+REAL-3861,75.0,Month-to-Month,Premium
+REAL-3383,68.0,Month-to-Month,Premium
+REAL-3678,25.0,Month-to-Month,Basic
+REAL-2506,136.0,Month-to-Month,Basic
+REAL-3787,78.0,Month-to-Month,Basic
+REAL-2133,64.0,Month-to-Month,Basic
+REAL-4017,141.0,Month-to-Month,Basic
+REAL-3360,68.0,Month-to-Month,Basic
+REAL-2412,131.0,Month-to-Month,Premium
+REAL-2404,87.0,Month-to-Month,Premium
+REAL-1626,95.0,Two Year,Premium
+REAL-1347,162.0,Month-to-Month,Basic
+REAL-3534,81.0,Month-to-Month,Basic
+REAL-2670,56.0,Month-to-Month,Premium
+REAL-1979,161.0,Month-to-Month,Basic
+REAL-3874,134.0,Month-to-Month,Basic
+REAL-2361,64.0,Month-to-Month,Basic
+REAL-1911,118.0,Month-to-Month,Basic
+REAL-3084,136.0,Month-to-Month,Premium
+REAL-1632,68.0,Month-to-Month,Premium
+REAL-3044,80.0,Two Year,Premium
+REAL-1445,70.0,Month-to-Month,Basic
+REAL-1617,79.0,Month-to-Month,Basic
+REAL-3704,72.0,Month-to-Month,Basic
+REAL-3431,183.0,Month-to-Month,Premium
+REAL-2602,121.0,Two Year,Premium
+REAL-2406,86.0,Month-to-Month,Basic
+REAL-3834,189.0,Month-to-Month,Basic
+REAL-2171,32.0,Month-to-Month,Basic
+REAL-2554,169.0,Month-to-Month,Basic
+REAL-1353,117.0,Month-to-Month,Basic
+REAL-1613,105.0,Two Year,Premium
+REAL-3347,68.0,Two Year,Premium
+REAL-2867,142.0,Two Year,Premium
+REAL-3111,126.0,Month-to-Month,Basic
+REAL-1057,121.0,Month-to-Month,Premium
+REAL-2424,78.0,Month-to-Month,Basic
+REAL-2677,123.0,Month-to-Month,Basic
+REAL-3441,111.0,Month-to-Month,Premium
+REAL-3784,,Month-to-Month,Basic
+REAL-3092,68.0,Month-to-Month,Basic
+REAL-3658,101.0,Month-to-Month,Basic
+REAL-3018,153.0,Month-to-Month,Premium
+REAL-2814,,Month-to-Month,Basic
+REAL-2653,93.0,Two Year,Basic
+REAL-4131,107.0,Month-to-Month,Basic
+REAL-1560,80.0,Month-to-Month,Basic
+REAL-1707,84.0,Month-to-Month,Premium
+REAL-2444,79.0,Month-to-Month,Basic
+REAL-1424,112.0,Month-to-Month,Premium
+REAL-2093,210.0,Month-to-Month,Basic
+REAL-1647,88.0,Month-to-Month,Basic
+REAL-1072,147.0,Month-to-Month,Basic
+REAL-2477,112.0,Month-to-Month,Basic
+REAL-2723,80.0,Month-to-Month,Basic
+REAL-2351,13.0,Month-to-Month,Basic
+REAL-2005,12.0,Two Year,Basic
+REAL-1620,163.0,Month-to-Month,Basic
+REAL-3364,54.0,Month-to-Month,Premium
+REAL-1553,61.0,Two Year,Basic
+REAL-3420,100.0,Two Year,Basic
+REAL-3960,1.0,Month-to-Month,Basic
+REAL-2737,134.0,Month-to-Month,Basic
+REAL-1998,59.0,Month-to-Month,Basic
+REAL-3013,,Month-to-Month,Basic
+REAL-2446,111.0,Month-to-Month,Premium
+REAL-4049,147.0,Month-to-Month,Basic
+REAL-4315,149.0,Month-to-Month,Premium
+REAL-2833,70.0,Month-to-Month,Basic
+REAL-1440,135.0,Month-to-Month,Premium
+REAL-1508,143.0,Month-to-Month,Premium
+REAL-2100,116.0,Month-to-Month,Premium
+REAL-1589,117.0,Month-to-Month,Premium
+REAL-2378,58.0,Two Year,Premium
+REAL-1649,79.0,Month-to-Month,Basic
+REAL-2837,117.0,Two Year,Basic
+REAL-2859,116.0,Month-to-Month,Basic
+REAL-3576,57.0,Month-to-Month,Premium
+REAL-3582,116.0,Month-to-Month,Basic
+REAL-1660,109.0,Month-to-Month,Basic
+REAL-1630,140.0,Month-to-Month,Basic
+REAL-3417,120.0,Month-to-Month,Basic
+REAL-3709,193.0,Month-to-Month,Premium
+REAL-1482,74.0,Month-to-Month,Basic
+REAL-3002,156.0,Month-to-Month,Basic
+REAL-3847,119.0,Two Year,Premium
+REAL-2357,97.0,Month-to-Month,Basic
+REAL-3322,109.0,Month-to-Month,Premium
+REAL-3439,177.0,Month-to-Month,Basic
+REAL-4168,201.0,Month-to-Month,Basic
+REAL-1856,104.0,Month-to-Month,Basic
+REAL-2628,131.0,Month-to-Month,Basic
+REAL-1530,47.0,Month-to-Month,Premium
+REAL-3232,104.0,Month-to-Month,Basic
+REAL-1049,97.0,Month-to-Month,Premium
+REAL-1858,129.0,Month-to-Month,Premium
+REAL-2263,40.0,Month-to-Month,Premium
+REAL-2072,164.0,Month-to-Month,Premium
+REAL-1719,78.0,Month-to-Month,Basic
+REAL-2462,,Month-to-Month,Basic
+REAL-4074,113.0,Month-to-Month,Basic
+REAL-3742,145.0,Month-to-Month,Premium
+REAL-2614,184.0,Month-to-Month,Basic
+REAL-3757,35.0,Month-to-Month,Basic
+REAL-3918,58.0,Month-to-Month,Basic
+REAL-3442,82.0,Month-to-Month,Premium
+REAL-3483,67.0,Month-to-Month,Premium
+REAL-2600,115.0,Month-to-Month,Premium
+REAL-3293,59.0,Two Year,Premium
+REAL-2543,57.0,Month-to-Month,Basic
+REAL-2235,163.0,Month-to-Month,Basic
+REAL-2251,87.0,Month-to-Month,Basic
+REAL-3382,123.0,Month-to-Month,Basic
+REAL-2195,135.0,Month-to-Month,Basic
+REAL-4011,103.0,Month-to-Month,Premium
+REAL-3921,80.0,Month-to-Month,Basic
+REAL-2840,87.0,Month-to-Month,Premium
+REAL-1297,36.0,Month-to-Month,Basic
+REAL-2480,78.0,Month-to-Month,Basic
+REAL-2582,86.0,Month-to-Month,Basic
+REAL-1958,91.0,Month-to-Month,Premium
+REAL-2966,77.0,Month-to-Month,Basic
+REAL-2502,64.0,Month-to-Month,Premium
+REAL-2350,55.0,Month-to-Month,Basic
+REAL-3614,125.0,Two Year,Basic
+REAL-1349,100.0,Month-to-Month,Basic
+REAL-2746,60.0,Month-to-Month,Basic
+REAL-1643,49.0,Month-to-Month,Basic
+REAL-4004,76.0,Month-to-Month,Basic
+REAL-2431,127.0,Month-to-Month,Basic
+REAL-1669,101.0,Month-to-Month,Premium
+REAL-3987,131.0,Two Year,Basic
+REAL-3941,112.0,Month-to-Month,Premium
+REAL-2278,163.0,Month-to-Month,Basic
+REAL-2179,101.0,Month-to-Month,Premium
+REAL-3498,89.0,Month-to-Month,Basic
+REAL-2295,76.0,Month-to-Month,Basic
+REAL-3637,109.0,Month-to-Month,Basic
+REAL-2732,97.0,Month-to-Month,Premium
+REAL-2952,124.0,Month-to-Month,Basic
+REAL-1786,85.0,Month-to-Month,Basic
+REAL-3992,182.0,Month-to-Month,Premium
+REAL-1140,110.0,Month-to-Month,Basic
+REAL-1788,90.0,Month-to-Month,Basic
+REAL-2924,124.0,Month-to-Month,Basic
+REAL-3259,210.0,Month-to-Month,Premium
+REAL-1714,168.0,Month-to-Month,Premium
+REAL-3090,106.0,Month-to-Month,Premium
+REAL-2916,72.0,Month-to-Month,Basic
+REAL-2820,56.0,Month-to-Month,Basic
+REAL-2457,118.0,Month-to-Month,Basic
+REAL-4048,95.0,Month-to-Month,Basic
+REAL-2334,126.0,Month-to-Month,Basic
+REAL-1618,153.0,Month-to-Month,Basic
+REAL-1406,21.0,Month-to-Month,Basic
+REAL-2442,102.0,Month-to-Month,Basic
+REAL-2427,176.0,Month-to-Month,Basic
+REAL-3184,92.0,Month-to-Month,Premium
+REAL-3711,124.0,Month-to-Month,Basic
+REAL-2983,114.0,Month-to-Month,Premium
+REAL-1497,144.0,Month-to-Month,Basic
+REAL-1342,44.0,Month-to-Month,Premium
+REAL-3162,136.0,Month-to-Month,Premium
+REAL-3522,106.0,Month-to-Month,Basic
+REAL-1782,35.0,Month-to-Month,Premium
+REAL-3741,21.0,Month-to-Month,Basic
+REAL-1303,158.0,Month-to-Month,Basic
+REAL-3725,51.0,Month-to-Month,Basic
+REAL-4110,31.0,Month-to-Month,Premium
+REAL-1664,147.0,Month-to-Month,Basic
+REAL-2177,90.0,Month-to-Month,Basic
+REAL-2244,45.0,Month-to-Month,Premium
+REAL-3019,41.0,Month-to-Month,Premium
+REAL-2812,156.0,Two Year,Basic
+REAL-3126,94.0,Month-to-Month,Basic
+REAL-3242,192.0,Month-to-Month,Basic
+REAL-1084,106.0,Month-to-Month,Basic
+REAL-3463,146.0,Month-to-Month,Premium
+REAL-1941,63.0,Month-to-Month,Basic
+REAL-1961,97.0,Month-to-Month,Basic
+REAL-1841,77.0,Month-to-Month,Basic
+REAL-4102,100.0,Month-to-Month,Premium
+REAL-4216,221.0,Month-to-Month,Premium
+REAL-4164,52.0,Month-to-Month,Basic
+REAL-2577,100.0,Month-to-Month,Basic
+REAL-1290,199.0,Month-to-Month,Premium
+REAL-3130,93.0,Month-to-Month,Basic
+REAL-2399,,Month-to-Month,Basic
+REAL-1604,30.0,Month-to-Month,Basic
+REAL-4107,73.0,Month-to-Month,Basic
+REAL-1916,105.0,Month-to-Month,Basic
+REAL-2546,56.0,Month-to-Month,Basic
+REAL-3029,154.0,Two Year,Basic
+REAL-2099,157.0,Month-to-Month,Basic
+REAL-2088,105.0,Month-to-Month,Premium
+REAL-3337,139.0,Month-to-Month,Basic
+REAL-2606,95.0,Month-to-Month,Basic
+REAL-1821,80.0,Month-to-Month,Basic
+REAL-3739,101.0,Month-to-Month,Premium
+REAL-2000,133.0,Month-to-Month,Basic
+REAL-2671,84.0,Month-to-Month,Basic
+REAL-1018,76.0,Month-to-Month,Premium
+REAL-1493,129.0,Month-to-Month,Premium
+REAL-2125,111.0,Month-to-Month,Basic
+REAL-2507,116.0,Month-to-Month,Basic
+REAL-3624,105.0,Month-to-Month,Basic
+REAL-3318,106.0,Month-to-Month,Basic
+REAL-3144,164.0,Month-to-Month,Basic
+REAL-3375,51.0,Month-to-Month,Basic
+REAL-2779,112.0,Month-to-Month,Basic
+REAL-3015,64.0,Month-to-Month,Basic
+REAL-2847,54.0,Month-to-Month,Premium
+REAL-3915,58.0,Month-to-Month,Basic
+REAL-3245,65.0,Month-to-Month,Premium
+REAL-2697,132.0,Month-to-Month,Basic
+REAL-2009,155.0,Month-to-Month,Basic
+REAL-3682,55.0,Two Year,Basic
+REAL-1360,159.0,Two Year,Basic
+REAL-3839,112.0,Month-to-Month,Basic
+REAL-3138,124.0,Month-to-Month,Basic
+REAL-2310,45.0,Month-to-Month,Basic
+REAL-2498,50.0,Month-to-Month,Basic
+REAL-2977,49.0,Two Year,Basic
+REAL-2556,106.0,Month-to-Month,Basic
+REAL-2950,52.0,Month-to-Month,Basic
+REAL-1344,64.0,Month-to-Month,Premium
+REAL-1986,159.0,Month-to-Month,Premium
+REAL-3346,114.0,Month-to-Month,Basic
+REAL-1743,158.0,Month-to-Month,Basic
+REAL-4098,93.0,Month-to-Month,Basic
+REAL-2760,66.0,Month-to-Month,Basic
+REAL-1113,125.0,Month-to-Month,Basic
+REAL-3404,,Month-to-Month,Basic
+REAL-2241,159.0,Month-to-Month,Basic
+REAL-2142,105.0,Month-to-Month,Basic
+REAL-2965,139.0,Month-to-Month,Basic
+REAL-2216,95.0,Month-to-Month,Basic
+REAL-2198,,Month-to-Month,Premium
+REAL-1085,128.0,Month-to-Month,Premium
+REAL-3493,21.0,Month-to-Month,Basic
+REAL-1668,171.0,Month-to-Month,Basic
+REAL-2014,102.0,Month-to-Month,Basic
+REAL-1128,92.0,Month-to-Month,Basic
+REAL-3636,104.0,Month-to-Month,Basic
+REAL-3258,80.0,Two Year,Basic
+REAL-1891,87.0,Month-to-Month,Basic
+REAL-3149,120.0,Month-to-Month,Premium
+REAL-1307,122.0,Month-to-Month,Basic
+REAL-1383,117.0,Two Year,Premium
+REAL-1150,113.0,Month-to-Month,Basic
+REAL-2317,89.0,Month-to-Month,Premium
+REAL-4138,91.0,Month-to-Month,Basic
+REAL-3533,92.0,Month-to-Month,Basic
+REAL-1426,163.0,Month-to-Month,Basic
+REAL-1494,18.0,Month-to-Month,Basic
+REAL-2207,13.0,Month-to-Month,Premium
+REAL-2739,80.0,Month-to-Month,Basic
+REAL-2951,126.0,Two Year,Premium
+REAL-2208,154.0,Month-to-Month,Basic
+REAL-3547,72.0,Month-to-Month,Basic
+REAL-3697,134.0,Month-to-Month,Premium
+REAL-3446,125.0,Month-to-Month,Basic
+REAL-2381,45.0,Month-to-Month,Basic
+REAL-2239,64.0,Month-to-Month,Basic
+REAL-2615,74.0,Month-to-Month,Basic
+REAL-2616,67.0,Month-to-Month,Basic
+REAL-1275,83.0,Month-to-Month,Basic
+REAL-1489,130.0,Month-to-Month,Basic
+REAL-4201,59.0,Month-to-Month,Premium
+REAL-2229,177.0,Month-to-Month,Basic
+REAL-1690,88.0,Month-to-Month,Basic
+REAL-2637,74.0,Month-to-Month,Basic
+REAL-2972,124.0,Month-to-Month,Basic
+REAL-3501,101.0,Month-to-Month,Basic
+REAL-3597,120.0,Month-to-Month,Basic
+REAL-4197,30.0,Month-to-Month,Basic
+REAL-3314,,Month-to-Month,Premium
+REAL-2058,92.0,Month-to-Month,Basic
+REAL-1118,112.0,Month-to-Month,Premium
+REAL-2024,146.0,Two Year,Basic
+REAL-2666,88.0,Month-to-Month,Basic
+REAL-1281,81.0,Month-to-Month,Basic
+REAL-3014,87.0,Month-to-Month,Basic
+REAL-2316,10.0,Month-to-Month,Basic
+REAL-3594,115.0,Two Year,Basic
+REAL-1968,122.0,Month-to-Month,Premium
+REAL-2432,63.0,Month-to-Month,Basic
+REAL-2472,76.0,Two Year,Basic
+REAL-3947,145.0,Month-to-Month,Basic
+REAL-3357,153.0,Month-to-Month,Basic
+REAL-1155,151.0,Month-to-Month,Basic
+REAL-1304,136.0,Month-to-Month,Basic
+REAL-3166,166.0,Month-to-Month,Basic
+REAL-3833,139.0,Month-to-Month,Basic
+REAL-4028,129.0,Month-to-Month,Basic
+REAL-2880,56.0,Month-to-Month,Basic
+REAL-3893,150.0,Month-to-Month,Premium
+REAL-2307,139.0,Month-to-Month,Basic
+REAL-4086,54.0,Two Year,Basic
+REAL-1575,114.0,Month-to-Month,Premium
+REAL-3178,80.0,Month-to-Month,Basic
+REAL-3857,160.0,Month-to-Month,Basic
+REAL-3914,65.0,Month-to-Month,Premium
+REAL-2299,49.0,Month-to-Month,Basic
+REAL-2767,115.0,Month-to-Month,Premium
+REAL-4147,62.0,Month-to-Month,Basic
+REAL-4219,150.0,Month-to-Month,Premium
+REAL-2474,140.0,Month-to-Month,Basic
+REAL-1843,102.0,Month-to-Month,Basic
+REAL-2566,80.0,Month-to-Month,Premium
+REAL-1269,118.0,Two Year,Basic
+REAL-1629,76.0,Month-to-Month,Basic
+REAL-2033,70.0,Month-to-Month,Basic
+REAL-1286,137.0,Month-to-Month,Basic
+REAL-2326,130.0,Month-to-Month,Basic
+REAL-3461,78.0,Month-to-Month,Basic
+REAL-1300,67.0,Month-to-Month,Basic
+REAL-2689,90.0,Month-to-Month,Premium
+REAL-3367,,Month-to-Month,Basic
+REAL-3063,90.0,Month-to-Month,Basic
+REAL-4326,96.0,Month-to-Month,Basic
+REAL-1065,40.0,Month-to-Month,Premium
+REAL-3470,189.0,Month-to-Month,Basic
+REAL-1890,124.0,Month-to-Month,Basic
+REAL-3344,95.0,Month-to-Month,Basic
+REAL-3895,33.0,Two Year,Basic
+REAL-3099,71.0,Month-to-Month,Basic
+REAL-3481,80.0,Month-to-Month,Basic
+REAL-1230,93.0,Two Year,Basic
+REAL-1503,109.0,Two Year,Premium
+REAL-3381,64.0,Month-to-Month,Premium
+REAL-2744,120.0,Month-to-Month,Premium
+REAL-2800,21.0,Month-to-Month,Basic
+REAL-2532,103.0,Month-to-Month,Premium
+REAL-2004,64.0,Month-to-Month,Premium
+REAL-1836,81.0,Month-to-Month,Premium
+REAL-2922,71.0,Month-to-Month,Basic
+REAL-1374,90.0,Month-to-Month,Basic
+REAL-2558,,Month-to-Month,Premium
+REAL-3350,176.0,Month-to-Month,Basic
+REAL-3467,3.0,Two Year,Basic
+REAL-1939,,Month-to-Month,Basic
+REAL-2321,51.0,Month-to-Month,Basic
+REAL-3372,114.0,Month-to-Month,Basic
+REAL-1751,101.0,Month-to-Month,Premium
+REAL-1099,77.0,Month-to-Month,Basic
+REAL-3818,,Two Year,Basic
+REAL-1866,119.0,Month-to-Month,Premium
+REAL-1910,,Month-to-Month,Premium
+REAL-2650,91.0,Month-to-Month,Premium
+REAL-1529,100.0,Two Year,Basic
+REAL-2260,76.0,Month-to-Month,Premium
+REAL-3104,105.0,Month-to-Month,Basic
+REAL-1636,121.0,Month-to-Month,Basic
+REAL-2269,55.0,Month-to-Month,Premium
+REAL-1185,73.0,Month-to-Month,Basic
+REAL-3095,98.0,Month-to-Month,Basic
+REAL-3295,190.0,Month-to-Month,Basic
+REAL-2748,71.0,Month-to-Month,Premium
+REAL-1931,77.0,Month-to-Month,Basic
+REAL-2441,172.0,Month-to-Month,Premium
+REAL-2721,106.0,Month-to-Month,Basic
+REAL-3552,49.0,Month-to-Month,Basic
+REAL-2738,127.0,Month-to-Month,Premium
+REAL-3663,172.0,Month-to-Month,Basic
+REAL-2273,28.0,Month-to-Month,Basic
+REAL-3303,205.0,Month-to-Month,Basic
+REAL-1607,63.0,Month-to-Month,Premium
+REAL-2681,110.0,Month-to-Month,Basic
+REAL-1151,117.0,Month-to-Month,Basic
+REAL-2601,99.0,Two Year,Basic
+REAL-4058,112.0,Month-to-Month,Basic
+REAL-2655,138.0,Month-to-Month,Basic
+REAL-4320,122.0,Two Year,Basic
+REAL-1731,90.0,Month-to-Month,Basic
+REAL-3365,112.0,Month-to-Month,Premium
+REAL-3425,55.0,Month-to-Month,Premium
+REAL-4031,64.0,Two Year,Basic
+REAL-1023,111.0,Month-to-Month,Basic
+REAL-3800,52.0,Two Year,Basic
+REAL-1158,6.0,Month-to-Month,Basic
+REAL-1861,58.0,Month-to-Month,Basic
+REAL-2831,93.0,Month-to-Month,Premium
+REAL-1902,149.0,Month-to-Month,Basic
+REAL-2784,51.0,Two Year,Basic
+REAL-2230,91.0,Month-to-Month,Basic
+REAL-3509,108.0,Month-to-Month,Basic
+REAL-1444,85.0,Two Year,Basic
+REAL-4263,130.0,Month-to-Month,Basic
+REAL-1754,41.0,Month-to-Month,Basic
+REAL-1923,1.0,Month-to-Month,Basic
+REAL-4300,111.0,Month-to-Month,Premium
+REAL-3342,61.0,Month-to-Month,Basic
+REAL-1311,110.0,Month-to-Month,Premium
+REAL-2375,84.0,Month-to-Month,Premium
+REAL-1548,31.0,Month-to-Month,Premium
+REAL-3221,,Month-to-Month,Basic
+REAL-2813,89.0,Month-to-Month,Basic
+REAL-1306,113.0,Month-to-Month,Basic
+REAL-1287,137.0,Month-to-Month,Basic
+REAL-1694,165.0,Month-to-Month,Basic
+REAL-1308,112.0,Month-to-Month,Basic
+REAL-3578,194.0,Month-to-Month,Basic
+REAL-3118,37.0,Two Year,Basic
+REAL-1749,87.0,Two Year,Basic
+REAL-2788,63.0,Month-to-Month,Premium
+REAL-4050,101.0,Month-to-Month,Basic
+REAL-3760,137.0,Two Year,Basic
+REAL-2580,120.0,Month-to-Month,Premium
+REAL-1908,23.0,Month-to-Month,Basic
+REAL-1086,94.0,Month-to-Month,Basic
+REAL-3642,,Two Year,Premium
+REAL-3526,57.0,Two Year,Basic
+REAL-4239,87.0,Month-to-Month,Premium
+REAL-1970,85.0,Month-to-Month,Basic
+REAL-1013,95.0,Month-to-Month,Basic
+REAL-1873,160.0,Month-to-Month,Basic
+REAL-1808,61.0,Two Year,Premium
+REAL-4034,75.0,Month-to-Month,Premium
+REAL-1514,60.0,Two Year,Premium
+REAL-3676,138.0,Month-to-Month,Basic
+REAL-1409,145.0,Month-to-Month,Basic
+REAL-2703,96.0,Month-to-Month,Premium
+REAL-2337,97.0,Two Year,Basic
+REAL-2413,95.0,Month-to-Month,Premium
+REAL-3515,111.0,Month-to-Month,Basic
+REAL-2954,71.0,Month-to-Month,Basic
+REAL-4258,148.0,Month-to-Month,Basic
+REAL-3699,136.0,Month-to-Month,Basic
+REAL-3964,99.0,Month-to-Month,Basic
+REAL-1382,149.0,Two Year,Basic
+REAL-2960,38.0,Month-to-Month,Basic
+REAL-4279,139.0,Month-to-Month,Premium
+REAL-4286,106.0,Month-to-Month,Premium
+REAL-2660,128.0,Month-to-Month,Basic
+REAL-3053,104.0,Month-to-Month,Basic
+REAL-3172,132.0,Month-to-Month,Basic
+REAL-2694,99.0,Month-to-Month,Basic
+REAL-2393,170.0,Month-to-Month,Basic
+REAL-1552,44.0,Month-to-Month,Basic
+REAL-3283,98.0,Month-to-Month,Basic
+REAL-1222,65.0,Month-to-Month,Basic
+REAL-3250,75.0,Month-to-Month,Basic
+REAL-2096,93.0,Month-to-Month,Basic
+REAL-3886,85.0,Month-to-Month,Basic
+REAL-1008,117.0,Month-to-Month,Basic
+REAL-3732,130.0,Two Year,Basic
+REAL-1316,103.0,Month-to-Month,Premium
+REAL-2328,114.0,Month-to-Month,Basic
+REAL-1427,67.0,Month-to-Month,Premium
+REAL-2667,78.0,Month-to-Month,Basic
+REAL-1105,95.0,Month-to-Month,Basic
+REAL-3211,112.0,Month-to-Month,Premium
+REAL-1142,157.0,Month-to-Month,Premium
+REAL-1121,41.0,Month-to-Month,Premium
+REAL-3633,63.0,Month-to-Month,Basic
+REAL-4181,121.0,Month-to-Month,Basic
+REAL-2189,87.0,Month-to-Month,Premium
+REAL-3196,132.0,Month-to-Month,Premium
+REAL-4282,99.0,Month-to-Month,Premium
+REAL-4206,143.0,Month-to-Month,Basic
+REAL-1115,36.0,Two Year,Premium
+REAL-4042,142.0,Month-to-Month,Basic
+REAL-2578,106.0,Month-to-Month,Basic
+REAL-3721,50.0,Month-to-Month,Basic
+REAL-4109,139.0,Two Year,Basic
+REAL-4275,120.0,Month-to-Month,Premium
+REAL-2987,59.0,Month-to-Month,Basic
+REAL-3452,135.0,Month-to-Month,Basic
+REAL-1672,151.0,Month-to-Month,Basic
+REAL-3080,109.0,Month-to-Month,Basic
+REAL-3024,159.0,Month-to-Month,Premium
+REAL-2886,224.0,Month-to-Month,Basic
+REAL-1591,82.0,Month-to-Month,Basic
+REAL-2909,195.0,Month-to-Month,Premium
+REAL-2745,68.0,Month-to-Month,Basic
+REAL-1888,104.0,Month-to-Month,Basic
+REAL-3113,60.0,Month-to-Month,Basic
+REAL-2706,54.0,Month-to-Month,Basic
+REAL-3170,70.0,Month-to-Month,Basic
+REAL-1213,86.0,Month-to-Month,Premium
+REAL-1778,115.0,Month-to-Month,Premium
+REAL-3671,152.0,Month-to-Month,Basic
+REAL-2448,110.0,Month-to-Month,Basic
+REAL-3059,94.0,Month-to-Month,Basic
+REAL-1800,96.0,Month-to-Month,Premium
+REAL-3752,55.0,Month-to-Month,Premium
+REAL-3602,86.0,Two Year,Basic
+REAL-4289,39.0,Month-to-Month,Basic
+REAL-2567,94.0,Month-to-Month,Basic
+REAL-3717,142.0,Month-to-Month,Premium
+REAL-3958,95.0,Month-to-Month,Basic
+REAL-2518,104.0,Month-to-Month,Basic
+REAL-2882,132.0,Two Year,Premium
+REAL-4012,91.0,Month-to-Month,Basic
+REAL-2343,73.0,Month-to-Month,Basic
+REAL-1273,139.0,Month-to-Month,Basic
+REAL-1071,162.0,Month-to-Month,Premium
+REAL-1720,100.0,Month-to-Month,Premium
+REAL-2087,,Month-to-Month,Basic
+REAL-1394,16.0,Month-to-Month,Basic
+REAL-1583,165.0,Month-to-Month,Basic
+REAL-3307,61.0,Month-to-Month,Premium
+REAL-3241,56.0,Month-to-Month,Premium
+REAL-3247,80.0,Month-to-Month,Basic
+REAL-1500,126.0,Month-to-Month,Premium
+REAL-3260,88.0,Two Year,Premium
+REAL-3473,66.0,Month-to-Month,Premium
+REAL-4309,100.0,Two Year,Basic
+REAL-4044,105.0,Month-to-Month,Basic
+REAL-2829,89.0,Month-to-Month,Premium
+REAL-2259,55.0,Month-to-Month,Premium
+REAL-2999,160.0,Month-to-Month,Basic
+REAL-3103,74.0,Month-to-Month,Basic
+REAL-1205,66.0,Month-to-Month,Premium
+REAL-1733,85.0,Month-to-Month,Premium
+REAL-3942,117.0,Two Year,Basic
+REAL-1526,30.0,Month-to-Month,Basic
+REAL-3621,84.0,Month-to-Month,Premium
+REAL-3477,96.0,Month-to-Month,Basic
+REAL-1898,125.0,Month-to-Month,Basic
+REAL-1377,79.0,Month-to-Month,Basic
+REAL-2559,135.0,Month-to-Month,Basic
+REAL-3096,94.0,Month-to-Month,Premium
+REAL-3978,83.0,Month-to-Month,Basic
+REAL-3050,121.0,Month-to-Month,Basic
+REAL-1386,99.0,Month-to-Month,Basic
+REAL-1198,131.0,Two Year,Premium
+REAL-4259,127.0,Month-to-Month,Basic
+REAL-2050,139.0,Month-to-Month,Premium
+REAL-1590,109.0,Month-to-Month,Basic
+REAL-1519,41.0,Month-to-Month,Basic
+REAL-3249,113.0,Month-to-Month,Basic
+REAL-3269,138.0,Month-to-Month,Premium
+REAL-1429,49.0,Month-to-Month,Basic
+REAL-2083,82.0,Two Year,Basic
+REAL-3380,53.0,Month-to-Month,Basic
+REAL-2657,136.0,Month-to-Month,Basic
+REAL-1207,38.0,Month-to-Month,Basic
+REAL-1491,55.0,Two Year,Basic
+REAL-3392,90.0,Month-to-Month,Basic
+REAL-2749,124.0,Month-to-Month,Basic
+REAL-4235,97.0,Month-to-Month,Premium
+REAL-1792,69.0,Two Year,Premium
+REAL-3766,146.0,Two Year,Basic
+REAL-2186,130.0,Month-to-Month,Premium
+REAL-2185,123.0,Month-to-Month,Basic
+REAL-4145,62.0,Month-to-Month,Basic
+REAL-3912,151.0,Month-to-Month,Basic
+REAL-3843,116.0,Month-to-Month,Basic
+REAL-4015,132.0,Month-to-Month,Premium
+REAL-2530,81.0,Month-to-Month,Basic
+REAL-2410,133.0,Month-to-Month,Basic
+REAL-2476,121.0,Month-to-Month,Premium
+REAL-1083,70.0,Month-to-Month,Premium
+REAL-3631,163.0,Month-to-Month,Premium
+REAL-3476,84.0,Month-to-Month,Basic
+REAL-1020,147.0,Month-to-Month,Basic
+REAL-2718,109.0,Two Year,Basic
+REAL-2627,29.0,Month-to-Month,Basic
+REAL-3753,134.0,Month-to-Month,Basic
+REAL-3615,100.0,Month-to-Month,Basic
+REAL-2405,125.0,Month-to-Month,Basic
+REAL-3712,144.0,Month-to-Month,Basic
+REAL-2562,37.0,Month-to-Month,Basic
+REAL-4321,60.0,Month-to-Month,Basic
+REAL-3991,101.0,Two Year,Basic
+REAL-3216,58.0,Month-to-Month,Basic
+REAL-1973,137.0,Month-to-Month,Basic
+REAL-4101,107.0,Month-to-Month,Premium
+REAL-1883,42.0,Month-to-Month,Basic
+REAL-2098,98.0,Month-to-Month,Basic
+REAL-1156,83.0,Month-to-Month,Basic
+REAL-4166,54.0,Month-to-Month,Basic
+REAL-1886,103.0,Month-to-Month,Premium
+REAL-4330,28.0,Month-to-Month,Basic
+REAL-3906,87.0,Month-to-Month,Premium
+REAL-2512,22.0,Month-to-Month,Premium
+REAL-3750,186.0,Month-to-Month,Basic
+REAL-2864,69.0,Month-to-Month,Basic
+REAL-3813,52.0,Month-to-Month,Basic
+REAL-3154,126.0,Two Year,Basic
+REAL-2832,68.0,Month-to-Month,Basic
+REAL-2453,105.0,Month-to-Month,Premium
+REAL-2505,163.0,Month-to-Month,Basic
+REAL-3034,60.0,Month-to-Month,Basic
+REAL-4041,39.0,Month-to-Month,Basic
+REAL-1458,11.0,Month-to-Month,Premium
+REAL-4047,88.0,Month-to-Month,Basic
+REAL-1078,46.0,Month-to-Month,Basic
+REAL-4237,,Two Year,Basic
+REAL-3313,160.0,Month-to-Month,Basic
+REAL-2056,67.0,Month-to-Month,Basic
+REAL-1906,73.0,Month-to-Month,Basic
+REAL-2949,73.0,Month-to-Month,Basic
+REAL-3464,125.0,Month-to-Month,Premium
+REAL-3994,128.0,Month-to-Month,Basic
+REAL-1380,137.0,Month-to-Month,Basic
+REAL-1947,150.0,Month-to-Month,Premium
+REAL-3087,105.0,Month-to-Month,Basic
+REAL-4232,142.0,Month-to-Month,Basic
+REAL-1715,115.0,Two Year,Basic
+REAL-3225,93.0,Month-to-Month,Basic
+REAL-1686,176.0,Month-to-Month,Basic
+REAL-3856,123.0,Month-to-Month,Basic
+REAL-2293,166.0,Month-to-Month,Basic
+REAL-1305,196.0,Month-to-Month,Basic
+REAL-1209,99.0,Month-to-Month,Basic
+REAL-2849,119.0,Month-to-Month,Basic
+REAL-3471,95.0,Month-to-Month,Premium
+REAL-4305,58.0,Month-to-Month,Premium
+REAL-4001,117.0,Month-to-Month,Basic
+REAL-1885,66.0,Month-to-Month,Premium
+REAL-3028,93.0,Month-to-Month,Basic
+REAL-1917,72.0,Month-to-Month,Basic
+REAL-3499,120.0,Month-to-Month,Basic
+REAL-3057,9.0,Month-to-Month,Premium
+REAL-1191,130.0,Month-to-Month,Basic
+REAL-3108,,Month-to-Month,Basic
+REAL-3271,175.0,Month-to-Month,Basic
+REAL-2265,95.0,Month-to-Month,Premium
+REAL-1483,117.0,Month-to-Month,Basic
+REAL-1915,152.0,Month-to-Month,Basic
+REAL-3887,134.0,Month-to-Month,Premium
+REAL-1277,144.0,Month-to-Month,Premium
+REAL-1988,138.0,Month-to-Month,Basic
+REAL-2811,115.0,Month-to-Month,Basic
+REAL-2245,122.0,Month-to-Month,Basic
+REAL-3020,108.0,Month-to-Month,Basic
+REAL-1571,186.0,Month-to-Month,Premium
+REAL-2435,89.0,Two Year,Premium
+REAL-1993,70.0,Month-to-Month,Basic
+REAL-2747,120.0,Month-to-Month,Basic
+REAL-2742,,Month-to-Month,Basic
+REAL-1585,110.0,Month-to-Month,Basic
+REAL-4266,138.0,Month-to-Month,Premium
+REAL-2961,63.0,Month-to-Month,Basic
+REAL-4324,159.0,Month-to-Month,Basic
+REAL-2349,71.0,Month-to-Month,Premium
+REAL-2007,181.0,Month-to-Month,Basic
+REAL-1674,119.0,Month-to-Month,Basic
+REAL-3077,145.0,Month-to-Month,Basic
+REAL-1855,66.0,Month-to-Month,Basic
+REAL-1447,55.0,Month-to-Month,Basic
+REAL-2769,114.0,Month-to-Month,Basic
+REAL-1865,52.0,Month-to-Month,Basic
+REAL-3008,86.0,Month-to-Month,Premium
+REAL-3514,44.0,Month-to-Month,Basic
+REAL-3971,148.0,Two Year,Basic
+REAL-3647,116.0,Month-to-Month,Basic
+REAL-3119,111.0,Month-to-Month,Basic
+REAL-2940,123.0,Month-to-Month,Basic
+REAL-3967,149.0,Month-to-Month,Premium
+REAL-3761,88.0,Month-to-Month,Basic
+REAL-2247,132.0,Month-to-Month,Basic
+REAL-1294,96.0,Month-to-Month,Premium
+REAL-2547,159.0,Month-to-Month,Basic
+REAL-1588,101.0,Month-to-Month,Basic
+REAL-2741,85.0,Month-to-Month,Basic
+REAL-2281,109.0,Month-to-Month,Basic
+REAL-3836,112.0,Month-to-Month,Basic
+REAL-3153,89.0,Month-to-Month,Basic
+REAL-3821,130.0,Month-to-Month,Basic
+REAL-2925,84.0,Month-to-Month,Basic
+REAL-3423,1.0,Month-to-Month,Basic
+REAL-2778,54.0,Month-to-Month,Premium
+REAL-3623,134.0,Month-to-Month,Basic
+REAL-2417,141.0,Month-to-Month,Basic
+REAL-1425,129.0,Two Year,Basic
+REAL-1534,67.0,Month-to-Month,Basic
+REAL-2054,50.0,Month-to-Month,Basic
+REAL-3519,15.0,Month-to-Month,Basic
+REAL-3778,68.0,Month-to-Month,Basic
+REAL-2777,149.0,Month-to-Month,Basic
+REAL-1132,78.0,Month-to-Month,Basic
+REAL-1006,121.0,Month-to-Month,Premium
+REAL-3957,55.0,Month-to-Month,Premium
+REAL-1421,51.0,Month-to-Month,Basic
+REAL-2690,174.0,Month-to-Month,Premium
+REAL-3954,57.0,Month-to-Month,Basic
+REAL-3266,144.0,Month-to-Month,Premium
+REAL-2963,131.0,Month-to-Month,Basic
+REAL-2716,36.0,Month-to-Month,Premium
+REAL-2368,129.0,Month-to-Month,Basic
+REAL-1556,123.0,Month-to-Month,Basic
+REAL-3272,74.0,Month-to-Month,Basic
+REAL-2850,162.0,Month-to-Month,Premium
+REAL-4009,133.0,Month-to-Month,Premium
+REAL-3975,80.0,Month-to-Month,Basic
+REAL-2891,146.0,Month-to-Month,Basic
+REAL-1570,51.0,Month-to-Month,Basic
+REAL-1352,79.0,Month-to-Month,Basic
+REAL-1091,155.0,Month-to-Month,Basic
+REAL-3802,38.0,Month-to-Month,Basic
+REAL-3812,82.0,Month-to-Month,Premium
+REAL-2170,108.0,Month-to-Month,Basic
+REAL-4262,88.0,Month-to-Month,Basic
+REAL-2285,109.0,Month-to-Month,Premium
+REAL-3500,121.0,Month-to-Month,Premium
+REAL-3661,197.0,Month-to-Month,Basic
+REAL-3694,125.0,Month-to-Month,Basic
+REAL-2803,101.0,Month-to-Month,Basic
+REAL-2591,90.0,Month-to-Month,Premium
+REAL-2839,70.0,Month-to-Month,Basic
+REAL-1697,63.0,Month-to-Month,Basic
+REAL-3780,77.0,Month-to-Month,Basic
+REAL-1348,83.0,Month-to-Month,Premium
