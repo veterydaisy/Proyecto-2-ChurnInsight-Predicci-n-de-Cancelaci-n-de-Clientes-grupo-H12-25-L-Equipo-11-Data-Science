@@ -55,18 +55,35 @@ El siguiente diagrama ilustra cómo el artefacto `.joblib` procesa los datos aut
 
 ```mermaid
 graph TD;
-    A["Datos Crudos (Raw Data)"] --> B("Preprocesador: ColumnTransformer");
-    B --> C{"¿Tipo de Variable?"};
-    C -- Numérica --> D["Passthrough (Sin cambios)"];
-    C -- Categórica --> E["One-Hot Encoding"];
-    D --> F["Concatenación"];
-    E --> F;
-    F --> G("Modelo: Random Forest Classifier");
-    G --> H["Predicción Final (0 o 1)"];
+    %% --- DEFINICIÓN DE CLASES (La Paleta de Colores) ---
+    %% Input: Morado Profundo (Indica inicio/datos)
+    classDef entrada fill:#4A148C,stroke:#B39DDB,stroke-width:2px,color:#fff,font-weight:bold;
     
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style G fill:#bbf,stroke:#333,stroke-width:2px
-    style H fill:#bfb,stroke:#333,stroke-width:2px
+    %% Procesos: Gris Azulado (Neutro para pasos intermedios)
+    classDef proceso fill:#37474F,stroke:#90A4AE,stroke-width:1px,color:#fff,font-weight:bold;
+    
+    %% Decisión: Naranja Ladrillo (Visible pero no chillón)
+    classDef decision fill:#E65100,stroke:#FFCC80,stroke-width:2px,color:#fff,font-weight:bold;
+    
+    %% Modelo: Azul Profundo (Tecnológico)
+    classDef modelo fill:#0D47A1,stroke:#64B5F6,stroke-width:2px,color:#fff,font-weight:bold;
+    
+    %% Salida: Verde Bosque (Éxito/Resultado)
+    classDef salida fill:#1B5E20,stroke:#81C784,stroke-width:2px,color:#fff,font-weight:bold;
+
+    %% --- EL DIAGRAMA ---
+    A["Datos Crudos (Raw Data)"]:::entrada --> B("Preprocesador: ColumnTransformer");
+    B:::proceso --> C{"¿Tipo de Variable?"};
+    
+    C:::decision -- Numérica --> D["Passthrough (Sin cambios)"];
+    C:::decision -- Categórica --> E["One-Hot Encoding"];
+    
+    D:::proceso --> F["Concatenación"];
+    E:::proceso --> F:::proceso;
+    
+    F --> G("Modelo: Random Forest Classifier");
+    G:::modelo --> H["Predicción Final (0 o 1)"];
+    H:::salida
 ```
 ## 📊 Resultados e Insights de Negocio
 
