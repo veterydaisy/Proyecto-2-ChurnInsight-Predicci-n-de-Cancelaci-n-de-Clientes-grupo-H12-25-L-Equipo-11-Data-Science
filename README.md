@@ -102,17 +102,17 @@ El modelo **Random Forest** alcanzó un **Accuracy aproximado del 90%** en el se
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/](https://github.com/)[TU-USUARIO]/[NOMBRE-REPO].git
-
+git clone [https://github.com/DaisyQuinteros/ChurnInsight.git](https://github.com/DaisyQuinteros/ChurnInsight.git)
+```
 ### 2. Cargar el Modelo (Para integración en Backend)
-El proyecto entrega un archivo `pipeline_churn_v1.joblib` que acepta datos crudos.
+El proyecto entrega un archivo `pipeline_churninsight_v1.joblib` que acepta datos crudos.
 
-```python
-import joblib
+```import joblib
 import pandas as pd
 
 # Cargar el pipeline
-modelo = joblib.load('models/pipeline_churn_v1.joblib')
+# Asegúrate de que el archivo .joblib esté en la misma carpeta o ajusta la ruta
+modelo = joblib.load('pipeline_churninsight_v1.joblib')
 
 # Ejemplo de cliente nuevo (Datos crudos como vienen de la web)
 nuevo_cliente = pd.DataFrame([{
@@ -120,7 +120,7 @@ nuevo_cliente = pd.DataFrame([{
     'monthly_charges': 70.5,
     'tenure': 2,
     'payment_method': 'Electronic check',
-    # ... otras columnas requeridas
+    # ... otras columnas requeridas por el modelo
 }])
 
 # Predicción (0 = Se queda, 1 = Se va)
@@ -128,13 +128,38 @@ prediccion = modelo.predict(nuevo_cliente)
 print(f"Predicción de Churn: {prediccion[0]}")
 ```
 
+## ⚙️ Instrucciones de Ejecución
+
+Para replicar el análisis o explorar el código paso a paso:
+
+### 1. Prerrequisitos
+Instalar las dependencias necesarias ejecutando:
+```bash
+pip install -r requirements.txt
+```
+### 2. Orden de los Notebooks
+El proyecto se estructura en dos etapas lógicas. Se recomienda seguir este orden de lectura/ejecución:
+
+#### Paso 1: ETL y Preparación
+
+- Abrir: preparacion_de_las_bases_de_datos.ipynb
+- Descripción: Este notebook procesa los archivos CSV crudos (base_clientes_real.csv, etc.), realiza la limpieza y genera el dataset maestro.
+
+#### Paso 2: Análisis y Modelado
+
+- Abrir: proyecto_churninsight_prediccion_de_cancelacion_de_clientes.ipynb
+- Descripción: Contiene el Análisis Exploratorio de Datos (EDA), el entrenamiento del modelo Random Forest y la exportación de los pipelines.
+
 ## 📂 Estructura de Archivos
 ```text
-├── data/                # Dataset utilizado
-├── notebooks/           # Notebook con el análisis completo (.ipynb)
-├── models/              # Archivos .joblib listos para producción
-├── README.md            # Documentación del proyecto
-└── requirements.txt     # Librerías necesarias
+├── base_clientes_real.csv                                              # (y otros csv) Datos crudos
+├── churn_dataset_procesado_V1.csv                                      # Dataset final limpio
+├── preparacion_de_las_bases_de_datos.ipynb                             # Notebook de ETL
+├── proyecto_churninsight_prediccion_de_cancelacion_de_clientes.ipynb   # Notebook de Análisis/Modelo
+├── pipeline_churninsight_v1.joblib                                     # Pipeline listo para producción
+├── modelo_churninsight_random_forest.joblib                            # Modelo entrenado
+├── README.md                                                           # Documentación del proyecto
+└── requirements.txt                                                    # Librerías necesarias
 ```
 ---
 
@@ -145,4 +170,4 @@ print(f"Predicción de Churn: {prediccion[0]}")
 
 
 ---
-*Proyecto realizado como parte del programa ONE (Oracle Next Education) - Alura Latam.*
+*Proyecto aplicado en la simulación laboral de No Country, utilizando conocimientos del programa ONE - Alura Latam.*
