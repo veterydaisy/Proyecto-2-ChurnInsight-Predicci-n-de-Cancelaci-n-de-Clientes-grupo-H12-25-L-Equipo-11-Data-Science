@@ -166,7 +166,7 @@ El proyecto se estructura en dos etapas lógicas. Se recomienda seguir este orde
 ## ✒️ Autor
 **Daisy Quinteros Silva**
 * **Rol:** Data Scientist / Ingeniero en Informática
-* [LinkedIn](www.linkedin.com/in/daisy-quinteros-silva-5b0450a5)
+* [LinkedIn](www.linkedin.com/in/daisy-quinteros-silva)
 
 
 ---
